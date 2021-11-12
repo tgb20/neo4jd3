@@ -1,0 +1,9893 @@
+[
+    {
+        "id": 1,
+        "labels": [
+            "Stone"
+        ],
+        "properties": {
+            "name": "stone"
+        }
+    },
+    {
+        "id": 2,
+        "labels": [
+            "Granite"
+        ],
+        "properties": {
+            "name": "granite"
+        }
+    },
+    {
+        "id": 3,
+        "labels": [
+            "Polished Granite"
+        ],
+        "properties": {
+            "name": "polished_granite"
+        }
+    },
+    {
+        "id": 4,
+        "labels": [
+            "Diorite"
+        ],
+        "properties": {
+            "name": "diorite"
+        }
+    },
+    {
+        "id": 5,
+        "labels": [
+            "Polished Diorite"
+        ],
+        "properties": {
+            "name": "polished_diorite"
+        }
+    },
+    {
+        "id": 6,
+        "labels": [
+            "Andesite"
+        ],
+        "properties": {
+            "name": "andesite"
+        }
+    },
+    {
+        "id": 7,
+        "labels": [
+            "Polished Andesite"
+        ],
+        "properties": {
+            "name": "polished_andesite"
+        }
+    },
+    {
+        "id": 8,
+        "labels": [
+            "Deepslate"
+        ],
+        "properties": {
+            "name": "deepslate"
+        }
+    },
+    {
+        "id": 9,
+        "labels": [
+            "Cobbled Deepslate"
+        ],
+        "properties": {
+            "name": "cobbled_deepslate"
+        }
+    },
+    {
+        "id": 10,
+        "labels": [
+            "Polished Deepslate"
+        ],
+        "properties": {
+            "name": "polished_deepslate"
+        }
+    },
+    {
+        "id": 11,
+        "labels": [
+            "Calcite"
+        ],
+        "properties": {
+            "name": "calcite"
+        }
+    },
+    {
+        "id": 12,
+        "labels": [
+            "Tuff"
+        ],
+        "properties": {
+            "name": "tuff"
+        }
+    },
+    {
+        "id": 13,
+        "labels": [
+            "Dripstone Block"
+        ],
+        "properties": {
+            "name": "dripstone_block"
+        }
+    },
+    {
+        "id": 14,
+        "labels": [
+            "Grass Block"
+        ],
+        "properties": {
+            "name": "grass_block"
+        }
+    },
+    {
+        "id": 15,
+        "labels": [
+            "Dirt"
+        ],
+        "properties": {
+            "name": "dirt"
+        }
+    },
+    {
+        "id": 16,
+        "labels": [
+            "Coarse Dirt"
+        ],
+        "properties": {
+            "name": "coarse_dirt"
+        }
+    },
+    {
+        "id": 17,
+        "labels": [
+            "Podzol"
+        ],
+        "properties": {
+            "name": "podzol"
+        }
+    },
+    {
+        "id": 18,
+        "labels": [
+            "Rooted Dirt"
+        ],
+        "properties": {
+            "name": "rooted_dirt"
+        }
+    },
+    {
+        "id": 19,
+        "labels": [
+            "Crimson Nylium"
+        ],
+        "properties": {
+            "name": "crimson_nylium"
+        }
+    },
+    {
+        "id": 20,
+        "labels": [
+            "Warped Nylium"
+        ],
+        "properties": {
+            "name": "warped_nylium"
+        }
+    },
+    {
+        "id": 21,
+        "labels": [
+            "Cobblestone"
+        ],
+        "properties": {
+            "name": "cobblestone"
+        }
+    },
+    {
+        "id": 22,
+        "labels": [
+            "Oak Planks"
+        ],
+        "properties": {
+            "name": "oak_planks"
+        }
+    },
+    {
+        "id": 23,
+        "labels": [
+            "Spruce Planks"
+        ],
+        "properties": {
+            "name": "spruce_planks"
+        }
+    },
+    {
+        "id": 24,
+        "labels": [
+            "Birch Planks"
+        ],
+        "properties": {
+            "name": "birch_planks"
+        }
+    },
+    {
+        "id": 25,
+        "labels": [
+            "Jungle Planks"
+        ],
+        "properties": {
+            "name": "jungle_planks"
+        }
+    },
+    {
+        "id": 26,
+        "labels": [
+            "Acacia Planks"
+        ],
+        "properties": {
+            "name": "acacia_planks"
+        }
+    },
+    {
+        "id": 27,
+        "labels": [
+            "Dark Oak Planks"
+        ],
+        "properties": {
+            "name": "dark_oak_planks"
+        }
+    },
+    {
+        "id": 28,
+        "labels": [
+            "Crimson Planks"
+        ],
+        "properties": {
+            "name": "crimson_planks"
+        }
+    },
+    {
+        "id": 29,
+        "labels": [
+            "Warped Planks"
+        ],
+        "properties": {
+            "name": "warped_planks"
+        }
+    },
+    {
+        "id": 30,
+        "labels": [
+            "Oak Sapling"
+        ],
+        "properties": {
+            "name": "oak_sapling"
+        }
+    },
+    {
+        "id": 31,
+        "labels": [
+            "Spruce Sapling"
+        ],
+        "properties": {
+            "name": "spruce_sapling"
+        }
+    },
+    {
+        "id": 32,
+        "labels": [
+            "Birch Sapling"
+        ],
+        "properties": {
+            "name": "birch_sapling"
+        }
+    },
+    {
+        "id": 33,
+        "labels": [
+            "Jungle Sapling"
+        ],
+        "properties": {
+            "name": "jungle_sapling"
+        }
+    },
+    {
+        "id": 34,
+        "labels": [
+            "Acacia Sapling"
+        ],
+        "properties": {
+            "name": "acacia_sapling"
+        }
+    },
+    {
+        "id": 35,
+        "labels": [
+            "Dark Oak Sapling"
+        ],
+        "properties": {
+            "name": "dark_oak_sapling"
+        }
+    },
+    {
+        "id": 36,
+        "labels": [
+            "Bedrock"
+        ],
+        "properties": {
+            "name": "bedrock"
+        }
+    },
+    {
+        "id": 37,
+        "labels": [
+            "Sand"
+        ],
+        "properties": {
+            "name": "sand"
+        }
+    },
+    {
+        "id": 38,
+        "labels": [
+            "Red Sand"
+        ],
+        "properties": {
+            "name": "red_sand"
+        }
+    },
+    {
+        "id": 39,
+        "labels": [
+            "Gravel"
+        ],
+        "properties": {
+            "name": "gravel"
+        }
+    },
+    {
+        "id": 40,
+        "labels": [
+            "Coal Ore"
+        ],
+        "properties": {
+            "name": "coal_ore"
+        }
+    },
+    {
+        "id": 41,
+        "labels": [
+            "Deepslate Coal Ore"
+        ],
+        "properties": {
+            "name": "deepslate_coal_ore"
+        }
+    },
+    {
+        "id": 42,
+        "labels": [
+            "Iron Ore"
+        ],
+        "properties": {
+            "name": "iron_ore"
+        }
+    },
+    {
+        "id": 43,
+        "labels": [
+            "Deepslate Iron Ore"
+        ],
+        "properties": {
+            "name": "deepslate_iron_ore"
+        }
+    },
+    {
+        "id": 44,
+        "labels": [
+            "Copper Ore"
+        ],
+        "properties": {
+            "name": "copper_ore"
+        }
+    },
+    {
+        "id": 45,
+        "labels": [
+            "Deepslate Copper Ore"
+        ],
+        "properties": {
+            "name": "deepslate_copper_ore"
+        }
+    },
+    {
+        "id": 46,
+        "labels": [
+            "Gold Ore"
+        ],
+        "properties": {
+            "name": "gold_ore"
+        }
+    },
+    {
+        "id": 47,
+        "labels": [
+            "Deepslate Gold Ore"
+        ],
+        "properties": {
+            "name": "deepslate_gold_ore"
+        }
+    },
+    {
+        "id": 48,
+        "labels": [
+            "Redstone Ore"
+        ],
+        "properties": {
+            "name": "redstone_ore"
+        }
+    },
+    {
+        "id": 49,
+        "labels": [
+            "Deepslate Redstone Ore"
+        ],
+        "properties": {
+            "name": "deepslate_redstone_ore"
+        }
+    },
+    {
+        "id": 50,
+        "labels": [
+            "Emerald Ore"
+        ],
+        "properties": {
+            "name": "emerald_ore"
+        }
+    },
+    {
+        "id": 51,
+        "labels": [
+            "Deepslate Emerald Ore"
+        ],
+        "properties": {
+            "name": "deepslate_emerald_ore"
+        }
+    },
+    {
+        "id": 52,
+        "labels": [
+            "Lapis Lazuli Ore"
+        ],
+        "properties": {
+            "name": "lapis_ore"
+        }
+    },
+    {
+        "id": 53,
+        "labels": [
+            "Deepslate Lapis Lazuli Ore"
+        ],
+        "properties": {
+            "name": "deepslate_lapis_ore"
+        }
+    },
+    {
+        "id": 54,
+        "labels": [
+            "Diamond Ore"
+        ],
+        "properties": {
+            "name": "diamond_ore"
+        }
+    },
+    {
+        "id": 55,
+        "labels": [
+            "Deepslate Diamond Ore"
+        ],
+        "properties": {
+            "name": "deepslate_diamond_ore"
+        }
+    },
+    {
+        "id": 56,
+        "labels": [
+            "Nether Gold Ore"
+        ],
+        "properties": {
+            "name": "nether_gold_ore"
+        }
+    },
+    {
+        "id": 57,
+        "labels": [
+            "Nether Quartz Ore"
+        ],
+        "properties": {
+            "name": "nether_quartz_ore"
+        }
+    },
+    {
+        "id": 58,
+        "labels": [
+            "Ancient Debris"
+        ],
+        "properties": {
+            "name": "ancient_debris"
+        }
+    },
+    {
+        "id": 59,
+        "labels": [
+            "Block of Coal"
+        ],
+        "properties": {
+            "name": "coal_block"
+        }
+    },
+    {
+        "id": 60,
+        "labels": [
+            "Block of Raw Iron"
+        ],
+        "properties": {
+            "name": "raw_iron_block"
+        }
+    },
+    {
+        "id": 61,
+        "labels": [
+            "Block of Raw Copper"
+        ],
+        "properties": {
+            "name": "raw_copper_block"
+        }
+    },
+    {
+        "id": 62,
+        "labels": [
+            "Block of Raw Gold"
+        ],
+        "properties": {
+            "name": "raw_gold_block"
+        }
+    },
+    {
+        "id": 63,
+        "labels": [
+            "Block of Amethyst"
+        ],
+        "properties": {
+            "name": "amethyst_block"
+        }
+    },
+    {
+        "id": 64,
+        "labels": [
+            "Budding Amethyst"
+        ],
+        "properties": {
+            "name": "budding_amethyst"
+        }
+    },
+    {
+        "id": 65,
+        "labels": [
+            "Block of Iron"
+        ],
+        "properties": {
+            "name": "iron_block"
+        }
+    },
+    {
+        "id": 66,
+        "labels": [
+            "Block of Copper"
+        ],
+        "properties": {
+            "name": "copper_block"
+        }
+    },
+    {
+        "id": 67,
+        "labels": [
+            "Block of Gold"
+        ],
+        "properties": {
+            "name": "gold_block"
+        }
+    },
+    {
+        "id": 68,
+        "labels": [
+            "Block of Diamond"
+        ],
+        "properties": {
+            "name": "diamond_block"
+        }
+    },
+    {
+        "id": 69,
+        "labels": [
+            "Block of Netherite"
+        ],
+        "properties": {
+            "name": "netherite_block"
+        }
+    },
+    {
+        "id": 70,
+        "labels": [
+            "Exposed Copper"
+        ],
+        "properties": {
+            "name": "exposed_copper"
+        }
+    },
+    {
+        "id": 71,
+        "labels": [
+            "Weathered Copper"
+        ],
+        "properties": {
+            "name": "weathered_copper"
+        }
+    },
+    {
+        "id": 72,
+        "labels": [
+            "Oxidized Copper"
+        ],
+        "properties": {
+            "name": "oxidized_copper"
+        }
+    },
+    {
+        "id": 73,
+        "labels": [
+            "Cut Copper"
+        ],
+        "properties": {
+            "name": "cut_copper"
+        }
+    },
+    {
+        "id": 74,
+        "labels": [
+            "Exposed Cut Copper"
+        ],
+        "properties": {
+            "name": "exposed_cut_copper"
+        }
+    },
+    {
+        "id": 75,
+        "labels": [
+            "Weathered Cut Copper"
+        ],
+        "properties": {
+            "name": "weathered_cut_copper"
+        }
+    },
+    {
+        "id": 76,
+        "labels": [
+            "Oxidized Cut Copper"
+        ],
+        "properties": {
+            "name": "oxidized_cut_copper"
+        }
+    },
+    {
+        "id": 77,
+        "labels": [
+            "Cut Copper Stairs"
+        ],
+        "properties": {
+            "name": "cut_copper_stairs"
+        }
+    },
+    {
+        "id": 78,
+        "labels": [
+            "Exposed Cut Copper Stairs"
+        ],
+        "properties": {
+            "name": "exposed_cut_copper_stairs"
+        }
+    },
+    {
+        "id": 79,
+        "labels": [
+            "Weathered Cut Copper Stairs"
+        ],
+        "properties": {
+            "name": "weathered_cut_copper_stairs"
+        }
+    },
+    {
+        "id": 80,
+        "labels": [
+            "Oxidized Cut Copper Stairs"
+        ],
+        "properties": {
+            "name": "oxidized_cut_copper_stairs"
+        }
+    },
+    {
+        "id": 81,
+        "labels": [
+            "Cut Copper Slab"
+        ],
+        "properties": {
+            "name": "cut_copper_slab"
+        }
+    },
+    {
+        "id": 82,
+        "labels": [
+            "Exposed Cut Copper Slab"
+        ],
+        "properties": {
+            "name": "exposed_cut_copper_slab"
+        }
+    },
+    {
+        "id": 83,
+        "labels": [
+            "Weathered Cut Copper Slab"
+        ],
+        "properties": {
+            "name": "weathered_cut_copper_slab"
+        }
+    },
+    {
+        "id": 84,
+        "labels": [
+            "Oxidized Cut Copper Slab"
+        ],
+        "properties": {
+            "name": "oxidized_cut_copper_slab"
+        }
+    },
+    {
+        "id": 85,
+        "labels": [
+            "Waxed Block of Copper"
+        ],
+        "properties": {
+            "name": "waxed_copper_block"
+        }
+    },
+    {
+        "id": 86,
+        "labels": [
+            "Waxed Exposed Copper"
+        ],
+        "properties": {
+            "name": "waxed_exposed_copper"
+        }
+    },
+    {
+        "id": 87,
+        "labels": [
+            "Waxed Weathered Copper"
+        ],
+        "properties": {
+            "name": "waxed_weathered_copper"
+        }
+    },
+    {
+        "id": 88,
+        "labels": [
+            "Waxed Oxidized Copper"
+        ],
+        "properties": {
+            "name": "waxed_oxidized_copper"
+        }
+    },
+    {
+        "id": 89,
+        "labels": [
+            "Waxed Cut Copper"
+        ],
+        "properties": {
+            "name": "waxed_cut_copper"
+        }
+    },
+    {
+        "id": 90,
+        "labels": [
+            "Waxed Exposed Cut Copper"
+        ],
+        "properties": {
+            "name": "waxed_exposed_cut_copper"
+        }
+    },
+    {
+        "id": 91,
+        "labels": [
+            "Waxed Weathered Cut Copper"
+        ],
+        "properties": {
+            "name": "waxed_weathered_cut_copper"
+        }
+    },
+    {
+        "id": 92,
+        "labels": [
+            "Waxed Oxidized Cut Copper"
+        ],
+        "properties": {
+            "name": "waxed_oxidized_cut_copper"
+        }
+    },
+    {
+        "id": 93,
+        "labels": [
+            "Waxed Cut Copper Stairs"
+        ],
+        "properties": {
+            "name": "waxed_cut_copper_stairs"
+        }
+    },
+    {
+        "id": 94,
+        "labels": [
+            "Waxed Exposed Cut Copper Stairs"
+        ],
+        "properties": {
+            "name": "waxed_exposed_cut_copper_stairs"
+        }
+    },
+    {
+        "id": 95,
+        "labels": [
+            "Waxed Weathered Cut Copper Stairs"
+        ],
+        "properties": {
+            "name": "waxed_weathered_cut_copper_stairs"
+        }
+    },
+    {
+        "id": 96,
+        "labels": [
+            "Waxed Oxidized Cut Copper Stairs"
+        ],
+        "properties": {
+            "name": "waxed_oxidized_cut_copper_stairs"
+        }
+    },
+    {
+        "id": 97,
+        "labels": [
+            "Waxed Cut Copper Slab"
+        ],
+        "properties": {
+            "name": "waxed_cut_copper_slab"
+        }
+    },
+    {
+        "id": 98,
+        "labels": [
+            "Waxed Exposed Cut Copper Slab"
+        ],
+        "properties": {
+            "name": "waxed_exposed_cut_copper_slab"
+        }
+    },
+    {
+        "id": 99,
+        "labels": [
+            "Waxed Weathered Cut Copper Slab"
+        ],
+        "properties": {
+            "name": "waxed_weathered_cut_copper_slab"
+        }
+    },
+    {
+        "id": 100,
+        "labels": [
+            "Waxed Oxidized Cut Copper Slab"
+        ],
+        "properties": {
+            "name": "waxed_oxidized_cut_copper_slab"
+        }
+    },
+    {
+        "id": 101,
+        "labels": [
+            "Oak Log"
+        ],
+        "properties": {
+            "name": "oak_log"
+        }
+    },
+    {
+        "id": 102,
+        "labels": [
+            "Spruce Log"
+        ],
+        "properties": {
+            "name": "spruce_log"
+        }
+    },
+    {
+        "id": 103,
+        "labels": [
+            "Birch Log"
+        ],
+        "properties": {
+            "name": "birch_log"
+        }
+    },
+    {
+        "id": 104,
+        "labels": [
+            "Jungle Log"
+        ],
+        "properties": {
+            "name": "jungle_log"
+        }
+    },
+    {
+        "id": 105,
+        "labels": [
+            "Acacia Log"
+        ],
+        "properties": {
+            "name": "acacia_log"
+        }
+    },
+    {
+        "id": 106,
+        "labels": [
+            "Dark Oak Log"
+        ],
+        "properties": {
+            "name": "dark_oak_log"
+        }
+    },
+    {
+        "id": 107,
+        "labels": [
+            "Crimson Stem"
+        ],
+        "properties": {
+            "name": "crimson_stem"
+        }
+    },
+    {
+        "id": 108,
+        "labels": [
+            "Warped Stem"
+        ],
+        "properties": {
+            "name": "warped_stem"
+        }
+    },
+    {
+        "id": 109,
+        "labels": [
+            "Stripped Oak Log"
+        ],
+        "properties": {
+            "name": "stripped_oak_log"
+        }
+    },
+    {
+        "id": 110,
+        "labels": [
+            "Stripped Spruce Log"
+        ],
+        "properties": {
+            "name": "stripped_spruce_log"
+        }
+    },
+    {
+        "id": 111,
+        "labels": [
+            "Stripped Birch Log"
+        ],
+        "properties": {
+            "name": "stripped_birch_log"
+        }
+    },
+    {
+        "id": 112,
+        "labels": [
+            "Stripped Jungle Log"
+        ],
+        "properties": {
+            "name": "stripped_jungle_log"
+        }
+    },
+    {
+        "id": 113,
+        "labels": [
+            "Stripped Acacia Log"
+        ],
+        "properties": {
+            "name": "stripped_acacia_log"
+        }
+    },
+    {
+        "id": 114,
+        "labels": [
+            "Stripped Dark Oak Log"
+        ],
+        "properties": {
+            "name": "stripped_dark_oak_log"
+        }
+    },
+    {
+        "id": 115,
+        "labels": [
+            "Stripped Crimson Stem"
+        ],
+        "properties": {
+            "name": "stripped_crimson_stem"
+        }
+    },
+    {
+        "id": 116,
+        "labels": [
+            "Stripped Warped Stem"
+        ],
+        "properties": {
+            "name": "stripped_warped_stem"
+        }
+    },
+    {
+        "id": 117,
+        "labels": [
+            "Stripped Oak Wood"
+        ],
+        "properties": {
+            "name": "stripped_oak_wood"
+        }
+    },
+    {
+        "id": 118,
+        "labels": [
+            "Stripped Spruce Wood"
+        ],
+        "properties": {
+            "name": "stripped_spruce_wood"
+        }
+    },
+    {
+        "id": 119,
+        "labels": [
+            "Stripped Birch Wood"
+        ],
+        "properties": {
+            "name": "stripped_birch_wood"
+        }
+    },
+    {
+        "id": 120,
+        "labels": [
+            "Stripped Jungle Wood"
+        ],
+        "properties": {
+            "name": "stripped_jungle_wood"
+        }
+    },
+    {
+        "id": 121,
+        "labels": [
+            "Stripped Acacia Wood"
+        ],
+        "properties": {
+            "name": "stripped_acacia_wood"
+        }
+    },
+    {
+        "id": 122,
+        "labels": [
+            "Stripped Dark Oak Wood"
+        ],
+        "properties": {
+            "name": "stripped_dark_oak_wood"
+        }
+    },
+    {
+        "id": 123,
+        "labels": [
+            "Stripped Crimson Hyphae"
+        ],
+        "properties": {
+            "name": "stripped_crimson_hyphae"
+        }
+    },
+    {
+        "id": 124,
+        "labels": [
+            "Stripped Warped Hyphae"
+        ],
+        "properties": {
+            "name": "stripped_warped_hyphae"
+        }
+    },
+    {
+        "id": 125,
+        "labels": [
+            "Oak Wood"
+        ],
+        "properties": {
+            "name": "oak_wood"
+        }
+    },
+    {
+        "id": 126,
+        "labels": [
+            "Spruce Wood"
+        ],
+        "properties": {
+            "name": "spruce_wood"
+        }
+    },
+    {
+        "id": 127,
+        "labels": [
+            "Birch Wood"
+        ],
+        "properties": {
+            "name": "birch_wood"
+        }
+    },
+    {
+        "id": 128,
+        "labels": [
+            "Jungle Wood"
+        ],
+        "properties": {
+            "name": "jungle_wood"
+        }
+    },
+    {
+        "id": 129,
+        "labels": [
+            "Acacia Wood"
+        ],
+        "properties": {
+            "name": "acacia_wood"
+        }
+    },
+    {
+        "id": 130,
+        "labels": [
+            "Dark Oak Wood"
+        ],
+        "properties": {
+            "name": "dark_oak_wood"
+        }
+    },
+    {
+        "id": 131,
+        "labels": [
+            "Crimson Hyphae"
+        ],
+        "properties": {
+            "name": "crimson_hyphae"
+        }
+    },
+    {
+        "id": 132,
+        "labels": [
+            "Warped Hyphae"
+        ],
+        "properties": {
+            "name": "warped_hyphae"
+        }
+    },
+    {
+        "id": 133,
+        "labels": [
+            "Oak Leaves"
+        ],
+        "properties": {
+            "name": "oak_leaves"
+        }
+    },
+    {
+        "id": 134,
+        "labels": [
+            "Spruce Leaves"
+        ],
+        "properties": {
+            "name": "spruce_leaves"
+        }
+    },
+    {
+        "id": 135,
+        "labels": [
+            "Birch Leaves"
+        ],
+        "properties": {
+            "name": "birch_leaves"
+        }
+    },
+    {
+        "id": 136,
+        "labels": [
+            "Jungle Leaves"
+        ],
+        "properties": {
+            "name": "jungle_leaves"
+        }
+    },
+    {
+        "id": 137,
+        "labels": [
+            "Acacia Leaves"
+        ],
+        "properties": {
+            "name": "acacia_leaves"
+        }
+    },
+    {
+        "id": 138,
+        "labels": [
+            "Dark Oak Leaves"
+        ],
+        "properties": {
+            "name": "dark_oak_leaves"
+        }
+    },
+    {
+        "id": 139,
+        "labels": [
+            "Azalea Leaves"
+        ],
+        "properties": {
+            "name": "azalea_leaves"
+        }
+    },
+    {
+        "id": 140,
+        "labels": [
+            "Flowering Azalea Leaves"
+        ],
+        "properties": {
+            "name": "flowering_azalea_leaves"
+        }
+    },
+    {
+        "id": 141,
+        "labels": [
+            "Sponge"
+        ],
+        "properties": {
+            "name": "sponge"
+        }
+    },
+    {
+        "id": 142,
+        "labels": [
+            "Wet Sponge"
+        ],
+        "properties": {
+            "name": "wet_sponge"
+        }
+    },
+    {
+        "id": 143,
+        "labels": [
+            "Glass"
+        ],
+        "properties": {
+            "name": "glass"
+        }
+    },
+    {
+        "id": 144,
+        "labels": [
+            "Tinted Glass"
+        ],
+        "properties": {
+            "name": "tinted_glass"
+        }
+    },
+    {
+        "id": 145,
+        "labels": [
+            "Block of Lapis Lazuli"
+        ],
+        "properties": {
+            "name": "lapis_block"
+        }
+    },
+    {
+        "id": 146,
+        "labels": [
+            "Sandstone"
+        ],
+        "properties": {
+            "name": "sandstone"
+        }
+    },
+    {
+        "id": 147,
+        "labels": [
+            "Chiseled Sandstone"
+        ],
+        "properties": {
+            "name": "chiseled_sandstone"
+        }
+    },
+    {
+        "id": 148,
+        "labels": [
+            "Cut Sandstone"
+        ],
+        "properties": {
+            "name": "cut_sandstone"
+        }
+    },
+    {
+        "id": 149,
+        "labels": [
+            "Cobweb"
+        ],
+        "properties": {
+            "name": "cobweb"
+        }
+    },
+    {
+        "id": 150,
+        "labels": [
+            "Grass"
+        ],
+        "properties": {
+            "name": "grass"
+        }
+    },
+    {
+        "id": 151,
+        "labels": [
+            "Fern"
+        ],
+        "properties": {
+            "name": "fern"
+        }
+    },
+    {
+        "id": 152,
+        "labels": [
+            "Azalea"
+        ],
+        "properties": {
+            "name": "azalea"
+        }
+    },
+    {
+        "id": 153,
+        "labels": [
+            "Flowering Azalea"
+        ],
+        "properties": {
+            "name": "flowering_azalea"
+        }
+    },
+    {
+        "id": 154,
+        "labels": [
+            "Dead Bush"
+        ],
+        "properties": {
+            "name": "dead_bush"
+        }
+    },
+    {
+        "id": 155,
+        "labels": [
+            "Seagrass"
+        ],
+        "properties": {
+            "name": "seagrass"
+        }
+    },
+    {
+        "id": 156,
+        "labels": [
+            "Sea Pickle"
+        ],
+        "properties": {
+            "name": "sea_pickle"
+        }
+    },
+    {
+        "id": 157,
+        "labels": [
+            "White Wool"
+        ],
+        "properties": {
+            "name": "white_wool"
+        }
+    },
+    {
+        "id": 158,
+        "labels": [
+            "Orange Wool"
+        ],
+        "properties": {
+            "name": "orange_wool"
+        }
+    },
+    {
+        "id": 159,
+        "labels": [
+            "Magenta Wool"
+        ],
+        "properties": {
+            "name": "magenta_wool"
+        }
+    },
+    {
+        "id": 160,
+        "labels": [
+            "Light Blue Wool"
+        ],
+        "properties": {
+            "name": "light_blue_wool"
+        }
+    },
+    {
+        "id": 161,
+        "labels": [
+            "Yellow Wool"
+        ],
+        "properties": {
+            "name": "yellow_wool"
+        }
+    },
+    {
+        "id": 162,
+        "labels": [
+            "Lime Wool"
+        ],
+        "properties": {
+            "name": "lime_wool"
+        }
+    },
+    {
+        "id": 163,
+        "labels": [
+            "Pink Wool"
+        ],
+        "properties": {
+            "name": "pink_wool"
+        }
+    },
+    {
+        "id": 164,
+        "labels": [
+            "Gray Wool"
+        ],
+        "properties": {
+            "name": "gray_wool"
+        }
+    },
+    {
+        "id": 165,
+        "labels": [
+            "Light Gray Wool"
+        ],
+        "properties": {
+            "name": "light_gray_wool"
+        }
+    },
+    {
+        "id": 166,
+        "labels": [
+            "Cyan Wool"
+        ],
+        "properties": {
+            "name": "cyan_wool"
+        }
+    },
+    {
+        "id": 167,
+        "labels": [
+            "Purple Wool"
+        ],
+        "properties": {
+            "name": "purple_wool"
+        }
+    },
+    {
+        "id": 168,
+        "labels": [
+            "Blue Wool"
+        ],
+        "properties": {
+            "name": "blue_wool"
+        }
+    },
+    {
+        "id": 169,
+        "labels": [
+            "Brown Wool"
+        ],
+        "properties": {
+            "name": "brown_wool"
+        }
+    },
+    {
+        "id": 170,
+        "labels": [
+            "Green Wool"
+        ],
+        "properties": {
+            "name": "green_wool"
+        }
+    },
+    {
+        "id": 171,
+        "labels": [
+            "Red Wool"
+        ],
+        "properties": {
+            "name": "red_wool"
+        }
+    },
+    {
+        "id": 172,
+        "labels": [
+            "Black Wool"
+        ],
+        "properties": {
+            "name": "black_wool"
+        }
+    },
+    {
+        "id": 173,
+        "labels": [
+            "Dandelion"
+        ],
+        "properties": {
+            "name": "dandelion"
+        }
+    },
+    {
+        "id": 174,
+        "labels": [
+            "Poppy"
+        ],
+        "properties": {
+            "name": "poppy"
+        }
+    },
+    {
+        "id": 175,
+        "labels": [
+            "Blue Orchid"
+        ],
+        "properties": {
+            "name": "blue_orchid"
+        }
+    },
+    {
+        "id": 176,
+        "labels": [
+            "Allium"
+        ],
+        "properties": {
+            "name": "allium"
+        }
+    },
+    {
+        "id": 177,
+        "labels": [
+            "Azure Bluet"
+        ],
+        "properties": {
+            "name": "azure_bluet"
+        }
+    },
+    {
+        "id": 178,
+        "labels": [
+            "Red Tulip"
+        ],
+        "properties": {
+            "name": "red_tulip"
+        }
+    },
+    {
+        "id": 179,
+        "labels": [
+            "Orange Tulip"
+        ],
+        "properties": {
+            "name": "orange_tulip"
+        }
+    },
+    {
+        "id": 180,
+        "labels": [
+            "White Tulip"
+        ],
+        "properties": {
+            "name": "white_tulip"
+        }
+    },
+    {
+        "id": 181,
+        "labels": [
+            "Pink Tulip"
+        ],
+        "properties": {
+            "name": "pink_tulip"
+        }
+    },
+    {
+        "id": 182,
+        "labels": [
+            "Oxeye Daisy"
+        ],
+        "properties": {
+            "name": "oxeye_daisy"
+        }
+    },
+    {
+        "id": 183,
+        "labels": [
+            "Cornflower"
+        ],
+        "properties": {
+            "name": "cornflower"
+        }
+    },
+    {
+        "id": 184,
+        "labels": [
+            "Lily of the Valley"
+        ],
+        "properties": {
+            "name": "lily_of_the_valley"
+        }
+    },
+    {
+        "id": 185,
+        "labels": [
+            "Wither Rose"
+        ],
+        "properties": {
+            "name": "wither_rose"
+        }
+    },
+    {
+        "id": 186,
+        "labels": [
+            "Spore Blossom"
+        ],
+        "properties": {
+            "name": "spore_blossom"
+        }
+    },
+    {
+        "id": 187,
+        "labels": [
+            "Brown Mushroom"
+        ],
+        "properties": {
+            "name": "brown_mushroom"
+        }
+    },
+    {
+        "id": 188,
+        "labels": [
+            "Red Mushroom"
+        ],
+        "properties": {
+            "name": "red_mushroom"
+        }
+    },
+    {
+        "id": 189,
+        "labels": [
+            "Crimson Fungus"
+        ],
+        "properties": {
+            "name": "crimson_fungus"
+        }
+    },
+    {
+        "id": 190,
+        "labels": [
+            "Warped Fungus"
+        ],
+        "properties": {
+            "name": "warped_fungus"
+        }
+    },
+    {
+        "id": 191,
+        "labels": [
+            "Crimson Roots"
+        ],
+        "properties": {
+            "name": "crimson_roots"
+        }
+    },
+    {
+        "id": 192,
+        "labels": [
+            "Warped Roots"
+        ],
+        "properties": {
+            "name": "warped_roots"
+        }
+    },
+    {
+        "id": 193,
+        "labels": [
+            "Nether Sprouts"
+        ],
+        "properties": {
+            "name": "nether_sprouts"
+        }
+    },
+    {
+        "id": 194,
+        "labels": [
+            "Weeping Vines"
+        ],
+        "properties": {
+            "name": "weeping_vines"
+        }
+    },
+    {
+        "id": 195,
+        "labels": [
+            "Twisting Vines"
+        ],
+        "properties": {
+            "name": "twisting_vines"
+        }
+    },
+    {
+        "id": 196,
+        "labels": [
+            "Sugar Cane"
+        ],
+        "properties": {
+            "name": "sugar_cane"
+        }
+    },
+    {
+        "id": 197,
+        "labels": [
+            "Kelp"
+        ],
+        "properties": {
+            "name": "kelp"
+        }
+    },
+    {
+        "id": 198,
+        "labels": [
+            "Moss Carpet"
+        ],
+        "properties": {
+            "name": "moss_carpet"
+        }
+    },
+    {
+        "id": 199,
+        "labels": [
+            "Moss Block"
+        ],
+        "properties": {
+            "name": "moss_block"
+        }
+    },
+    {
+        "id": 200,
+        "labels": [
+            "Hanging Roots"
+        ],
+        "properties": {
+            "name": "hanging_roots"
+        }
+    },
+    {
+        "id": 201,
+        "labels": [
+            "Big Dripleaf"
+        ],
+        "properties": {
+            "name": "big_dripleaf"
+        }
+    },
+    {
+        "id": 202,
+        "labels": [
+            "Small Dripleaf"
+        ],
+        "properties": {
+            "name": "small_dripleaf"
+        }
+    },
+    {
+        "id": 203,
+        "labels": [
+            "Bamboo"
+        ],
+        "properties": {
+            "name": "bamboo"
+        }
+    },
+    {
+        "id": 204,
+        "labels": [
+            "Oak Slab"
+        ],
+        "properties": {
+            "name": "oak_slab"
+        }
+    },
+    {
+        "id": 205,
+        "labels": [
+            "Spruce Slab"
+        ],
+        "properties": {
+            "name": "spruce_slab"
+        }
+    },
+    {
+        "id": 206,
+        "labels": [
+            "Birch Slab"
+        ],
+        "properties": {
+            "name": "birch_slab"
+        }
+    },
+    {
+        "id": 207,
+        "labels": [
+            "Jungle Slab"
+        ],
+        "properties": {
+            "name": "jungle_slab"
+        }
+    },
+    {
+        "id": 208,
+        "labels": [
+            "Acacia Slab"
+        ],
+        "properties": {
+            "name": "acacia_slab"
+        }
+    },
+    {
+        "id": 209,
+        "labels": [
+            "Dark Oak Slab"
+        ],
+        "properties": {
+            "name": "dark_oak_slab"
+        }
+    },
+    {
+        "id": 210,
+        "labels": [
+            "Crimson Slab"
+        ],
+        "properties": {
+            "name": "crimson_slab"
+        }
+    },
+    {
+        "id": 211,
+        "labels": [
+            "Warped Slab"
+        ],
+        "properties": {
+            "name": "warped_slab"
+        }
+    },
+    {
+        "id": 212,
+        "labels": [
+            "Stone Slab"
+        ],
+        "properties": {
+            "name": "stone_slab"
+        }
+    },
+    {
+        "id": 213,
+        "labels": [
+            "Smooth Stone Slab"
+        ],
+        "properties": {
+            "name": "smooth_stone_slab"
+        }
+    },
+    {
+        "id": 214,
+        "labels": [
+            "Sandstone Slab"
+        ],
+        "properties": {
+            "name": "sandstone_slab"
+        }
+    },
+    {
+        "id": 215,
+        "labels": [
+            "Cut Sandstone Slab"
+        ],
+        "properties": {
+            "name": "cut_sandstone_slab"
+        }
+    },
+    {
+        "id": 216,
+        "labels": [
+            "Petrified Oak Slab"
+        ],
+        "properties": {
+            "name": "petrified_oak_slab"
+        }
+    },
+    {
+        "id": 217,
+        "labels": [
+            "Cobblestone Slab"
+        ],
+        "properties": {
+            "name": "cobblestone_slab"
+        }
+    },
+    {
+        "id": 218,
+        "labels": [
+            "Brick Slab"
+        ],
+        "properties": {
+            "name": "brick_slab"
+        }
+    },
+    {
+        "id": 219,
+        "labels": [
+            "Stone Brick Slab"
+        ],
+        "properties": {
+            "name": "stone_brick_slab"
+        }
+    },
+    {
+        "id": 220,
+        "labels": [
+            "Nether Brick Slab"
+        ],
+        "properties": {
+            "name": "nether_brick_slab"
+        }
+    },
+    {
+        "id": 221,
+        "labels": [
+            "Quartz Slab"
+        ],
+        "properties": {
+            "name": "quartz_slab"
+        }
+    },
+    {
+        "id": 222,
+        "labels": [
+            "Red Sandstone Slab"
+        ],
+        "properties": {
+            "name": "red_sandstone_slab"
+        }
+    },
+    {
+        "id": 223,
+        "labels": [
+            "Cut Red Sandstone Slab"
+        ],
+        "properties": {
+            "name": "cut_red_sandstone_slab"
+        }
+    },
+    {
+        "id": 224,
+        "labels": [
+            "Purpur Slab"
+        ],
+        "properties": {
+            "name": "purpur_slab"
+        }
+    },
+    {
+        "id": 225,
+        "labels": [
+            "Prismarine Slab"
+        ],
+        "properties": {
+            "name": "prismarine_slab"
+        }
+    },
+    {
+        "id": 226,
+        "labels": [
+            "Prismarine Brick Slab"
+        ],
+        "properties": {
+            "name": "prismarine_brick_slab"
+        }
+    },
+    {
+        "id": 227,
+        "labels": [
+            "Dark Prismarine Slab"
+        ],
+        "properties": {
+            "name": "dark_prismarine_slab"
+        }
+    },
+    {
+        "id": 228,
+        "labels": [
+            "Smooth Quartz Block"
+        ],
+        "properties": {
+            "name": "smooth_quartz"
+        }
+    },
+    {
+        "id": 229,
+        "labels": [
+            "Smooth Red Sandstone"
+        ],
+        "properties": {
+            "name": "smooth_red_sandstone"
+        }
+    },
+    {
+        "id": 230,
+        "labels": [
+            "Smooth Sandstone"
+        ],
+        "properties": {
+            "name": "smooth_sandstone"
+        }
+    },
+    {
+        "id": 231,
+        "labels": [
+            "Smooth Stone"
+        ],
+        "properties": {
+            "name": "smooth_stone"
+        }
+    },
+    {
+        "id": 232,
+        "labels": [
+            "Bricks"
+        ],
+        "properties": {
+            "name": "bricks"
+        }
+    },
+    {
+        "id": 233,
+        "labels": [
+            "Bookshelf"
+        ],
+        "properties": {
+            "name": "bookshelf"
+        }
+    },
+    {
+        "id": 234,
+        "labels": [
+            "Mossy Cobblestone"
+        ],
+        "properties": {
+            "name": "mossy_cobblestone"
+        }
+    },
+    {
+        "id": 235,
+        "labels": [
+            "Obsidian"
+        ],
+        "properties": {
+            "name": "obsidian"
+        }
+    },
+    {
+        "id": 236,
+        "labels": [
+            "Torch"
+        ],
+        "properties": {
+            "name": "torch"
+        }
+    },
+    {
+        "id": 237,
+        "labels": [
+            "End Rod"
+        ],
+        "properties": {
+            "name": "end_rod"
+        }
+    },
+    {
+        "id": 238,
+        "labels": [
+            "Chorus Plant"
+        ],
+        "properties": {
+            "name": "chorus_plant"
+        }
+    },
+    {
+        "id": 239,
+        "labels": [
+            "Chorus Flower"
+        ],
+        "properties": {
+            "name": "chorus_flower"
+        }
+    },
+    {
+        "id": 240,
+        "labels": [
+            "Purpur Block"
+        ],
+        "properties": {
+            "name": "purpur_block"
+        }
+    },
+    {
+        "id": 241,
+        "labels": [
+            "Purpur Pillar"
+        ],
+        "properties": {
+            "name": "purpur_pillar"
+        }
+    },
+    {
+        "id": 242,
+        "labels": [
+            "Purpur Stairs"
+        ],
+        "properties": {
+            "name": "purpur_stairs"
+        }
+    },
+    {
+        "id": 243,
+        "labels": [
+            "Spawner"
+        ],
+        "properties": {
+            "name": "spawner"
+        }
+    },
+    {
+        "id": 244,
+        "labels": [
+            "Oak Stairs"
+        ],
+        "properties": {
+            "name": "oak_stairs"
+        }
+    },
+    {
+        "id": 245,
+        "labels": [
+            "Chest"
+        ],
+        "properties": {
+            "name": "chest"
+        }
+    },
+    {
+        "id": 246,
+        "labels": [
+            "Crafting Table"
+        ],
+        "properties": {
+            "name": "crafting_table"
+        }
+    },
+    {
+        "id": 247,
+        "labels": [
+            "Farmland"
+        ],
+        "properties": {
+            "name": "farmland"
+        }
+    },
+    {
+        "id": 248,
+        "labels": [
+            "Furnace"
+        ],
+        "properties": {
+            "name": "furnace"
+        }
+    },
+    {
+        "id": 249,
+        "labels": [
+            "Ladder"
+        ],
+        "properties": {
+            "name": "ladder"
+        }
+    },
+    {
+        "id": 250,
+        "labels": [
+            "Cobblestone Stairs"
+        ],
+        "properties": {
+            "name": "cobblestone_stairs"
+        }
+    },
+    {
+        "id": 251,
+        "labels": [
+            "Snow"
+        ],
+        "properties": {
+            "name": "snow"
+        }
+    },
+    {
+        "id": 252,
+        "labels": [
+            "Ice"
+        ],
+        "properties": {
+            "name": "ice"
+        }
+    },
+    {
+        "id": 253,
+        "labels": [
+            "Snow Block"
+        ],
+        "properties": {
+            "name": "snow_block"
+        }
+    },
+    {
+        "id": 254,
+        "labels": [
+            "Cactus"
+        ],
+        "properties": {
+            "name": "cactus"
+        }
+    },
+    {
+        "id": 255,
+        "labels": [
+            "Clay"
+        ],
+        "properties": {
+            "name": "clay"
+        }
+    },
+    {
+        "id": 256,
+        "labels": [
+            "Jukebox"
+        ],
+        "properties": {
+            "name": "jukebox"
+        }
+    },
+    {
+        "id": 257,
+        "labels": [
+            "Oak Fence"
+        ],
+        "properties": {
+            "name": "oak_fence"
+        }
+    },
+    {
+        "id": 258,
+        "labels": [
+            "Spruce Fence"
+        ],
+        "properties": {
+            "name": "spruce_fence"
+        }
+    },
+    {
+        "id": 259,
+        "labels": [
+            "Birch Fence"
+        ],
+        "properties": {
+            "name": "birch_fence"
+        }
+    },
+    {
+        "id": 260,
+        "labels": [
+            "Jungle Fence"
+        ],
+        "properties": {
+            "name": "jungle_fence"
+        }
+    },
+    {
+        "id": 261,
+        "labels": [
+            "Acacia Fence"
+        ],
+        "properties": {
+            "name": "acacia_fence"
+        }
+    },
+    {
+        "id": 262,
+        "labels": [
+            "Dark Oak Fence"
+        ],
+        "properties": {
+            "name": "dark_oak_fence"
+        }
+    },
+    {
+        "id": 263,
+        "labels": [
+            "Crimson Fence"
+        ],
+        "properties": {
+            "name": "crimson_fence"
+        }
+    },
+    {
+        "id": 264,
+        "labels": [
+            "Warped Fence"
+        ],
+        "properties": {
+            "name": "warped_fence"
+        }
+    },
+    {
+        "id": 265,
+        "labels": [
+            "Pumpkin"
+        ],
+        "properties": {
+            "name": "pumpkin"
+        }
+    },
+    {
+        "id": 266,
+        "labels": [
+            "Carved Pumpkin"
+        ],
+        "properties": {
+            "name": "carved_pumpkin"
+        }
+    },
+    {
+        "id": 267,
+        "labels": [
+            "Jack o'Lantern"
+        ],
+        "properties": {
+            "name": "jack_o_lantern"
+        }
+    },
+    {
+        "id": 268,
+        "labels": [
+            "Netherrack"
+        ],
+        "properties": {
+            "name": "netherrack"
+        }
+    },
+    {
+        "id": 269,
+        "labels": [
+            "Soul Sand"
+        ],
+        "properties": {
+            "name": "soul_sand"
+        }
+    },
+    {
+        "id": 270,
+        "labels": [
+            "Soul Soil"
+        ],
+        "properties": {
+            "name": "soul_soil"
+        }
+    },
+    {
+        "id": 271,
+        "labels": [
+            "Basalt"
+        ],
+        "properties": {
+            "name": "basalt"
+        }
+    },
+    {
+        "id": 272,
+        "labels": [
+            "Polished Basalt"
+        ],
+        "properties": {
+            "name": "polished_basalt"
+        }
+    },
+    {
+        "id": 273,
+        "labels": [
+            "Smooth Basalt"
+        ],
+        "properties": {
+            "name": "smooth_basalt"
+        }
+    },
+    {
+        "id": 274,
+        "labels": [
+            "Soul Torch"
+        ],
+        "properties": {
+            "name": "soul_torch"
+        }
+    },
+    {
+        "id": 275,
+        "labels": [
+            "Glowstone"
+        ],
+        "properties": {
+            "name": "glowstone"
+        }
+    },
+    {
+        "id": 276,
+        "labels": [
+            "Infested Stone"
+        ],
+        "properties": {
+            "name": "infested_stone"
+        }
+    },
+    {
+        "id": 277,
+        "labels": [
+            "Infested Cobblestone"
+        ],
+        "properties": {
+            "name": "infested_cobblestone"
+        }
+    },
+    {
+        "id": 278,
+        "labels": [
+            "Infested Stone Bricks"
+        ],
+        "properties": {
+            "name": "infested_stone_bricks"
+        }
+    },
+    {
+        "id": 279,
+        "labels": [
+            "Infested Mossy Stone Bricks"
+        ],
+        "properties": {
+            "name": "infested_mossy_stone_bricks"
+        }
+    },
+    {
+        "id": 280,
+        "labels": [
+            "Infested Cracked Stone Bricks"
+        ],
+        "properties": {
+            "name": "infested_cracked_stone_bricks"
+        }
+    },
+    {
+        "id": 281,
+        "labels": [
+            "Infested Chiseled Stone Bricks"
+        ],
+        "properties": {
+            "name": "infested_chiseled_stone_bricks"
+        }
+    },
+    {
+        "id": 282,
+        "labels": [
+            "Infested Deepslate"
+        ],
+        "properties": {
+            "name": "infested_deepslate"
+        }
+    },
+    {
+        "id": 283,
+        "labels": [
+            "Stone Bricks"
+        ],
+        "properties": {
+            "name": "stone_bricks"
+        }
+    },
+    {
+        "id": 284,
+        "labels": [
+            "Mossy Stone Bricks"
+        ],
+        "properties": {
+            "name": "mossy_stone_bricks"
+        }
+    },
+    {
+        "id": 285,
+        "labels": [
+            "Cracked Stone Bricks"
+        ],
+        "properties": {
+            "name": "cracked_stone_bricks"
+        }
+    },
+    {
+        "id": 286,
+        "labels": [
+            "Chiseled Stone Bricks"
+        ],
+        "properties": {
+            "name": "chiseled_stone_bricks"
+        }
+    },
+    {
+        "id": 287,
+        "labels": [
+            "Deepslate Bricks"
+        ],
+        "properties": {
+            "name": "deepslate_bricks"
+        }
+    },
+    {
+        "id": 288,
+        "labels": [
+            "Cracked Deepslate Bricks"
+        ],
+        "properties": {
+            "name": "cracked_deepslate_bricks"
+        }
+    },
+    {
+        "id": 289,
+        "labels": [
+            "Deepslate Tiles"
+        ],
+        "properties": {
+            "name": "deepslate_tiles"
+        }
+    },
+    {
+        "id": 290,
+        "labels": [
+            "Cracked Deepslate Tiles"
+        ],
+        "properties": {
+            "name": "cracked_deepslate_tiles"
+        }
+    },
+    {
+        "id": 291,
+        "labels": [
+            "Chiseled Deepslate"
+        ],
+        "properties": {
+            "name": "chiseled_deepslate"
+        }
+    },
+    {
+        "id": 292,
+        "labels": [
+            "Brown Mushroom Block"
+        ],
+        "properties": {
+            "name": "brown_mushroom_block"
+        }
+    },
+    {
+        "id": 293,
+        "labels": [
+            "Red Mushroom Block"
+        ],
+        "properties": {
+            "name": "red_mushroom_block"
+        }
+    },
+    {
+        "id": 294,
+        "labels": [
+            "Mushroom Stem"
+        ],
+        "properties": {
+            "name": "mushroom_stem"
+        }
+    },
+    {
+        "id": 295,
+        "labels": [
+            "Iron Bars"
+        ],
+        "properties": {
+            "name": "iron_bars"
+        }
+    },
+    {
+        "id": 296,
+        "labels": [
+            "Chain"
+        ],
+        "properties": {
+            "name": "chain"
+        }
+    },
+    {
+        "id": 297,
+        "labels": [
+            "Glass Pane"
+        ],
+        "properties": {
+            "name": "glass_pane"
+        }
+    },
+    {
+        "id": 298,
+        "labels": [
+            "Melon"
+        ],
+        "properties": {
+            "name": "melon"
+        }
+    },
+    {
+        "id": 299,
+        "labels": [
+            "Vines"
+        ],
+        "properties": {
+            "name": "vine"
+        }
+    },
+    {
+        "id": 300,
+        "labels": [
+            "Glow Lichen"
+        ],
+        "properties": {
+            "name": "glow_lichen"
+        }
+    },
+    {
+        "id": 301,
+        "labels": [
+            "Brick Stairs"
+        ],
+        "properties": {
+            "name": "brick_stairs"
+        }
+    },
+    {
+        "id": 302,
+        "labels": [
+            "Stone Brick Stairs"
+        ],
+        "properties": {
+            "name": "stone_brick_stairs"
+        }
+    },
+    {
+        "id": 303,
+        "labels": [
+            "Mycelium"
+        ],
+        "properties": {
+            "name": "mycelium"
+        }
+    },
+    {
+        "id": 304,
+        "labels": [
+            "Lily Pad"
+        ],
+        "properties": {
+            "name": "lily_pad"
+        }
+    },
+    {
+        "id": 305,
+        "labels": [
+            "Nether Bricks"
+        ],
+        "properties": {
+            "name": "nether_bricks"
+        }
+    },
+    {
+        "id": 306,
+        "labels": [
+            "Cracked Nether Bricks"
+        ],
+        "properties": {
+            "name": "cracked_nether_bricks"
+        }
+    },
+    {
+        "id": 307,
+        "labels": [
+            "Chiseled Nether Bricks"
+        ],
+        "properties": {
+            "name": "chiseled_nether_bricks"
+        }
+    },
+    {
+        "id": 308,
+        "labels": [
+            "Nether Brick Fence"
+        ],
+        "properties": {
+            "name": "nether_brick_fence"
+        }
+    },
+    {
+        "id": 309,
+        "labels": [
+            "Nether Brick Stairs"
+        ],
+        "properties": {
+            "name": "nether_brick_stairs"
+        }
+    },
+    {
+        "id": 310,
+        "labels": [
+            "Enchanting Table"
+        ],
+        "properties": {
+            "name": "enchanting_table"
+        }
+    },
+    {
+        "id": 311,
+        "labels": [
+            "End Portal Frame"
+        ],
+        "properties": {
+            "name": "end_portal_frame"
+        }
+    },
+    {
+        "id": 312,
+        "labels": [
+            "End Stone"
+        ],
+        "properties": {
+            "name": "end_stone"
+        }
+    },
+    {
+        "id": 313,
+        "labels": [
+            "End Stone Bricks"
+        ],
+        "properties": {
+            "name": "end_stone_bricks"
+        }
+    },
+    {
+        "id": 314,
+        "labels": [
+            "Dragon Egg"
+        ],
+        "properties": {
+            "name": "dragon_egg"
+        }
+    },
+    {
+        "id": 315,
+        "labels": [
+            "Sandstone Stairs"
+        ],
+        "properties": {
+            "name": "sandstone_stairs"
+        }
+    },
+    {
+        "id": 316,
+        "labels": [
+            "Ender Chest"
+        ],
+        "properties": {
+            "name": "ender_chest"
+        }
+    },
+    {
+        "id": 317,
+        "labels": [
+            "Block of Emerald"
+        ],
+        "properties": {
+            "name": "emerald_block"
+        }
+    },
+    {
+        "id": 318,
+        "labels": [
+            "Spruce Stairs"
+        ],
+        "properties": {
+            "name": "spruce_stairs"
+        }
+    },
+    {
+        "id": 319,
+        "labels": [
+            "Birch Stairs"
+        ],
+        "properties": {
+            "name": "birch_stairs"
+        }
+    },
+    {
+        "id": 320,
+        "labels": [
+            "Jungle Stairs"
+        ],
+        "properties": {
+            "name": "jungle_stairs"
+        }
+    },
+    {
+        "id": 321,
+        "labels": [
+            "Crimson Stairs"
+        ],
+        "properties": {
+            "name": "crimson_stairs"
+        }
+    },
+    {
+        "id": 322,
+        "labels": [
+            "Warped Stairs"
+        ],
+        "properties": {
+            "name": "warped_stairs"
+        }
+    },
+    {
+        "id": 323,
+        "labels": [
+            "Command Block"
+        ],
+        "properties": {
+            "name": "command_block"
+        }
+    },
+    {
+        "id": 324,
+        "labels": [
+            "Beacon"
+        ],
+        "properties": {
+            "name": "beacon"
+        }
+    },
+    {
+        "id": 325,
+        "labels": [
+            "Cobblestone Wall"
+        ],
+        "properties": {
+            "name": "cobblestone_wall"
+        }
+    },
+    {
+        "id": 326,
+        "labels": [
+            "Mossy Cobblestone Wall"
+        ],
+        "properties": {
+            "name": "mossy_cobblestone_wall"
+        }
+    },
+    {
+        "id": 327,
+        "labels": [
+            "Brick Wall"
+        ],
+        "properties": {
+            "name": "brick_wall"
+        }
+    },
+    {
+        "id": 328,
+        "labels": [
+            "Prismarine Wall"
+        ],
+        "properties": {
+            "name": "prismarine_wall"
+        }
+    },
+    {
+        "id": 329,
+        "labels": [
+            "Red Sandstone Wall"
+        ],
+        "properties": {
+            "name": "red_sandstone_wall"
+        }
+    },
+    {
+        "id": 330,
+        "labels": [
+            "Mossy Stone Brick Wall"
+        ],
+        "properties": {
+            "name": "mossy_stone_brick_wall"
+        }
+    },
+    {
+        "id": 331,
+        "labels": [
+            "Granite Wall"
+        ],
+        "properties": {
+            "name": "granite_wall"
+        }
+    },
+    {
+        "id": 332,
+        "labels": [
+            "Stone Brick Wall"
+        ],
+        "properties": {
+            "name": "stone_brick_wall"
+        }
+    },
+    {
+        "id": 333,
+        "labels": [
+            "Nether Brick Wall"
+        ],
+        "properties": {
+            "name": "nether_brick_wall"
+        }
+    },
+    {
+        "id": 334,
+        "labels": [
+            "Andesite Wall"
+        ],
+        "properties": {
+            "name": "andesite_wall"
+        }
+    },
+    {
+        "id": 335,
+        "labels": [
+            "Red Nether Brick Wall"
+        ],
+        "properties": {
+            "name": "red_nether_brick_wall"
+        }
+    },
+    {
+        "id": 336,
+        "labels": [
+            "Sandstone Wall"
+        ],
+        "properties": {
+            "name": "sandstone_wall"
+        }
+    },
+    {
+        "id": 337,
+        "labels": [
+            "End Stone Brick Wall"
+        ],
+        "properties": {
+            "name": "end_stone_brick_wall"
+        }
+    },
+    {
+        "id": 338,
+        "labels": [
+            "Diorite Wall"
+        ],
+        "properties": {
+            "name": "diorite_wall"
+        }
+    },
+    {
+        "id": 339,
+        "labels": [
+            "Blackstone Wall"
+        ],
+        "properties": {
+            "name": "blackstone_wall"
+        }
+    },
+    {
+        "id": 340,
+        "labels": [
+            "Polished Blackstone Wall"
+        ],
+        "properties": {
+            "name": "polished_blackstone_wall"
+        }
+    },
+    {
+        "id": 341,
+        "labels": [
+            "Polished Blackstone Brick Wall"
+        ],
+        "properties": {
+            "name": "polished_blackstone_brick_wall"
+        }
+    },
+    {
+        "id": 342,
+        "labels": [
+            "Cobbled Deepslate Wall"
+        ],
+        "properties": {
+            "name": "cobbled_deepslate_wall"
+        }
+    },
+    {
+        "id": 343,
+        "labels": [
+            "Polished Deepslate Wall"
+        ],
+        "properties": {
+            "name": "polished_deepslate_wall"
+        }
+    },
+    {
+        "id": 344,
+        "labels": [
+            "Deepslate Brick Wall"
+        ],
+        "properties": {
+            "name": "deepslate_brick_wall"
+        }
+    },
+    {
+        "id": 345,
+        "labels": [
+            "Deepslate Tile Wall"
+        ],
+        "properties": {
+            "name": "deepslate_tile_wall"
+        }
+    },
+    {
+        "id": 346,
+        "labels": [
+            "Anvil"
+        ],
+        "properties": {
+            "name": "anvil"
+        }
+    },
+    {
+        "id": 347,
+        "labels": [
+            "Chipped Anvil"
+        ],
+        "properties": {
+            "name": "chipped_anvil"
+        }
+    },
+    {
+        "id": 348,
+        "labels": [
+            "Damaged Anvil"
+        ],
+        "properties": {
+            "name": "damaged_anvil"
+        }
+    },
+    {
+        "id": 349,
+        "labels": [
+            "Chiseled Quartz Block"
+        ],
+        "properties": {
+            "name": "chiseled_quartz_block"
+        }
+    },
+    {
+        "id": 350,
+        "labels": [
+            "Block of Quartz"
+        ],
+        "properties": {
+            "name": "quartz_block"
+        }
+    },
+    {
+        "id": 351,
+        "labels": [
+            "Quartz Bricks"
+        ],
+        "properties": {
+            "name": "quartz_bricks"
+        }
+    },
+    {
+        "id": 352,
+        "labels": [
+            "Quartz Pillar"
+        ],
+        "properties": {
+            "name": "quartz_pillar"
+        }
+    },
+    {
+        "id": 353,
+        "labels": [
+            "Quartz Stairs"
+        ],
+        "properties": {
+            "name": "quartz_stairs"
+        }
+    },
+    {
+        "id": 354,
+        "labels": [
+            "White Terracotta"
+        ],
+        "properties": {
+            "name": "white_terracotta"
+        }
+    },
+    {
+        "id": 355,
+        "labels": [
+            "Orange Terracotta"
+        ],
+        "properties": {
+            "name": "orange_terracotta"
+        }
+    },
+    {
+        "id": 356,
+        "labels": [
+            "Magenta Terracotta"
+        ],
+        "properties": {
+            "name": "magenta_terracotta"
+        }
+    },
+    {
+        "id": 357,
+        "labels": [
+            "Light Blue Terracotta"
+        ],
+        "properties": {
+            "name": "light_blue_terracotta"
+        }
+    },
+    {
+        "id": 358,
+        "labels": [
+            "Yellow Terracotta"
+        ],
+        "properties": {
+            "name": "yellow_terracotta"
+        }
+    },
+    {
+        "id": 359,
+        "labels": [
+            "Lime Terracotta"
+        ],
+        "properties": {
+            "name": "lime_terracotta"
+        }
+    },
+    {
+        "id": 360,
+        "labels": [
+            "Pink Terracotta"
+        ],
+        "properties": {
+            "name": "pink_terracotta"
+        }
+    },
+    {
+        "id": 361,
+        "labels": [
+            "Gray Terracotta"
+        ],
+        "properties": {
+            "name": "gray_terracotta"
+        }
+    },
+    {
+        "id": 362,
+        "labels": [
+            "Light Gray Terracotta"
+        ],
+        "properties": {
+            "name": "light_gray_terracotta"
+        }
+    },
+    {
+        "id": 363,
+        "labels": [
+            "Cyan Terracotta"
+        ],
+        "properties": {
+            "name": "cyan_terracotta"
+        }
+    },
+    {
+        "id": 364,
+        "labels": [
+            "Purple Terracotta"
+        ],
+        "properties": {
+            "name": "purple_terracotta"
+        }
+    },
+    {
+        "id": 365,
+        "labels": [
+            "Blue Terracotta"
+        ],
+        "properties": {
+            "name": "blue_terracotta"
+        }
+    },
+    {
+        "id": 366,
+        "labels": [
+            "Brown Terracotta"
+        ],
+        "properties": {
+            "name": "brown_terracotta"
+        }
+    },
+    {
+        "id": 367,
+        "labels": [
+            "Green Terracotta"
+        ],
+        "properties": {
+            "name": "green_terracotta"
+        }
+    },
+    {
+        "id": 368,
+        "labels": [
+            "Red Terracotta"
+        ],
+        "properties": {
+            "name": "red_terracotta"
+        }
+    },
+    {
+        "id": 369,
+        "labels": [
+            "Black Terracotta"
+        ],
+        "properties": {
+            "name": "black_terracotta"
+        }
+    },
+    {
+        "id": 370,
+        "labels": [
+            "Barrier"
+        ],
+        "properties": {
+            "name": "barrier"
+        }
+    },
+    {
+        "id": 371,
+        "labels": [
+            "Light"
+        ],
+        "properties": {
+            "name": "light"
+        }
+    },
+    {
+        "id": 372,
+        "labels": [
+            "Hay Bale"
+        ],
+        "properties": {
+            "name": "hay_block"
+        }
+    },
+    {
+        "id": 373,
+        "labels": [
+            "White Carpet"
+        ],
+        "properties": {
+            "name": "white_carpet"
+        }
+    },
+    {
+        "id": 374,
+        "labels": [
+            "Orange Carpet"
+        ],
+        "properties": {
+            "name": "orange_carpet"
+        }
+    },
+    {
+        "id": 375,
+        "labels": [
+            "Magenta Carpet"
+        ],
+        "properties": {
+            "name": "magenta_carpet"
+        }
+    },
+    {
+        "id": 376,
+        "labels": [
+            "Light Blue Carpet"
+        ],
+        "properties": {
+            "name": "light_blue_carpet"
+        }
+    },
+    {
+        "id": 377,
+        "labels": [
+            "Yellow Carpet"
+        ],
+        "properties": {
+            "name": "yellow_carpet"
+        }
+    },
+    {
+        "id": 378,
+        "labels": [
+            "Lime Carpet"
+        ],
+        "properties": {
+            "name": "lime_carpet"
+        }
+    },
+    {
+        "id": 379,
+        "labels": [
+            "Pink Carpet"
+        ],
+        "properties": {
+            "name": "pink_carpet"
+        }
+    },
+    {
+        "id": 380,
+        "labels": [
+            "Gray Carpet"
+        ],
+        "properties": {
+            "name": "gray_carpet"
+        }
+    },
+    {
+        "id": 381,
+        "labels": [
+            "Light Gray Carpet"
+        ],
+        "properties": {
+            "name": "light_gray_carpet"
+        }
+    },
+    {
+        "id": 382,
+        "labels": [
+            "Cyan Carpet"
+        ],
+        "properties": {
+            "name": "cyan_carpet"
+        }
+    },
+    {
+        "id": 383,
+        "labels": [
+            "Purple Carpet"
+        ],
+        "properties": {
+            "name": "purple_carpet"
+        }
+    },
+    {
+        "id": 384,
+        "labels": [
+            "Blue Carpet"
+        ],
+        "properties": {
+            "name": "blue_carpet"
+        }
+    },
+    {
+        "id": 385,
+        "labels": [
+            "Brown Carpet"
+        ],
+        "properties": {
+            "name": "brown_carpet"
+        }
+    },
+    {
+        "id": 386,
+        "labels": [
+            "Green Carpet"
+        ],
+        "properties": {
+            "name": "green_carpet"
+        }
+    },
+    {
+        "id": 387,
+        "labels": [
+            "Red Carpet"
+        ],
+        "properties": {
+            "name": "red_carpet"
+        }
+    },
+    {
+        "id": 388,
+        "labels": [
+            "Black Carpet"
+        ],
+        "properties": {
+            "name": "black_carpet"
+        }
+    },
+    {
+        "id": 389,
+        "labels": [
+            "Terracotta"
+        ],
+        "properties": {
+            "name": "terracotta"
+        }
+    },
+    {
+        "id": 390,
+        "labels": [
+            "Packed Ice"
+        ],
+        "properties": {
+            "name": "packed_ice"
+        }
+    },
+    {
+        "id": 391,
+        "labels": [
+            "Acacia Stairs"
+        ],
+        "properties": {
+            "name": "acacia_stairs"
+        }
+    },
+    {
+        "id": 392,
+        "labels": [
+            "Dark Oak Stairs"
+        ],
+        "properties": {
+            "name": "dark_oak_stairs"
+        }
+    },
+    {
+        "id": 393,
+        "labels": [
+            "Dirt Path"
+        ],
+        "properties": {
+            "name": "dirt_path"
+        }
+    },
+    {
+        "id": 394,
+        "labels": [
+            "Sunflower"
+        ],
+        "properties": {
+            "name": "sunflower"
+        }
+    },
+    {
+        "id": 395,
+        "labels": [
+            "Lilac"
+        ],
+        "properties": {
+            "name": "lilac"
+        }
+    },
+    {
+        "id": 396,
+        "labels": [
+            "Rose Bush"
+        ],
+        "properties": {
+            "name": "rose_bush"
+        }
+    },
+    {
+        "id": 397,
+        "labels": [
+            "Peony"
+        ],
+        "properties": {
+            "name": "peony"
+        }
+    },
+    {
+        "id": 398,
+        "labels": [
+            "Tall Grass"
+        ],
+        "properties": {
+            "name": "tall_grass"
+        }
+    },
+    {
+        "id": 399,
+        "labels": [
+            "Large Fern"
+        ],
+        "properties": {
+            "name": "large_fern"
+        }
+    },
+    {
+        "id": 400,
+        "labels": [
+            "White Stained Glass"
+        ],
+        "properties": {
+            "name": "white_stained_glass"
+        }
+    },
+    {
+        "id": 401,
+        "labels": [
+            "Orange Stained Glass"
+        ],
+        "properties": {
+            "name": "orange_stained_glass"
+        }
+    },
+    {
+        "id": 402,
+        "labels": [
+            "Magenta Stained Glass"
+        ],
+        "properties": {
+            "name": "magenta_stained_glass"
+        }
+    },
+    {
+        "id": 403,
+        "labels": [
+            "Light Blue Stained Glass"
+        ],
+        "properties": {
+            "name": "light_blue_stained_glass"
+        }
+    },
+    {
+        "id": 404,
+        "labels": [
+            "Yellow Stained Glass"
+        ],
+        "properties": {
+            "name": "yellow_stained_glass"
+        }
+    },
+    {
+        "id": 405,
+        "labels": [
+            "Lime Stained Glass"
+        ],
+        "properties": {
+            "name": "lime_stained_glass"
+        }
+    },
+    {
+        "id": 406,
+        "labels": [
+            "Pink Stained Glass"
+        ],
+        "properties": {
+            "name": "pink_stained_glass"
+        }
+    },
+    {
+        "id": 407,
+        "labels": [
+            "Gray Stained Glass"
+        ],
+        "properties": {
+            "name": "gray_stained_glass"
+        }
+    },
+    {
+        "id": 408,
+        "labels": [
+            "Light Gray Stained Glass"
+        ],
+        "properties": {
+            "name": "light_gray_stained_glass"
+        }
+    },
+    {
+        "id": 409,
+        "labels": [
+            "Cyan Stained Glass"
+        ],
+        "properties": {
+            "name": "cyan_stained_glass"
+        }
+    },
+    {
+        "id": 410,
+        "labels": [
+            "Purple Stained Glass"
+        ],
+        "properties": {
+            "name": "purple_stained_glass"
+        }
+    },
+    {
+        "id": 411,
+        "labels": [
+            "Blue Stained Glass"
+        ],
+        "properties": {
+            "name": "blue_stained_glass"
+        }
+    },
+    {
+        "id": 412,
+        "labels": [
+            "Brown Stained Glass"
+        ],
+        "properties": {
+            "name": "brown_stained_glass"
+        }
+    },
+    {
+        "id": 413,
+        "labels": [
+            "Green Stained Glass"
+        ],
+        "properties": {
+            "name": "green_stained_glass"
+        }
+    },
+    {
+        "id": 414,
+        "labels": [
+            "Red Stained Glass"
+        ],
+        "properties": {
+            "name": "red_stained_glass"
+        }
+    },
+    {
+        "id": 415,
+        "labels": [
+            "Black Stained Glass"
+        ],
+        "properties": {
+            "name": "black_stained_glass"
+        }
+    },
+    {
+        "id": 416,
+        "labels": [
+            "White Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "white_stained_glass_pane"
+        }
+    },
+    {
+        "id": 417,
+        "labels": [
+            "Orange Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "orange_stained_glass_pane"
+        }
+    },
+    {
+        "id": 418,
+        "labels": [
+            "Magenta Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "magenta_stained_glass_pane"
+        }
+    },
+    {
+        "id": 419,
+        "labels": [
+            "Light Blue Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "light_blue_stained_glass_pane"
+        }
+    },
+    {
+        "id": 420,
+        "labels": [
+            "Yellow Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "yellow_stained_glass_pane"
+        }
+    },
+    {
+        "id": 421,
+        "labels": [
+            "Lime Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "lime_stained_glass_pane"
+        }
+    },
+    {
+        "id": 422,
+        "labels": [
+            "Pink Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "pink_stained_glass_pane"
+        }
+    },
+    {
+        "id": 423,
+        "labels": [
+            "Gray Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "gray_stained_glass_pane"
+        }
+    },
+    {
+        "id": 424,
+        "labels": [
+            "Light Gray Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "light_gray_stained_glass_pane"
+        }
+    },
+    {
+        "id": 425,
+        "labels": [
+            "Cyan Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "cyan_stained_glass_pane"
+        }
+    },
+    {
+        "id": 426,
+        "labels": [
+            "Purple Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "purple_stained_glass_pane"
+        }
+    },
+    {
+        "id": 427,
+        "labels": [
+            "Blue Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "blue_stained_glass_pane"
+        }
+    },
+    {
+        "id": 428,
+        "labels": [
+            "Brown Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "brown_stained_glass_pane"
+        }
+    },
+    {
+        "id": 429,
+        "labels": [
+            "Green Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "green_stained_glass_pane"
+        }
+    },
+    {
+        "id": 430,
+        "labels": [
+            "Red Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "red_stained_glass_pane"
+        }
+    },
+    {
+        "id": 431,
+        "labels": [
+            "Black Stained Glass Pane"
+        ],
+        "properties": {
+            "name": "black_stained_glass_pane"
+        }
+    },
+    {
+        "id": 432,
+        "labels": [
+            "Prismarine"
+        ],
+        "properties": {
+            "name": "prismarine"
+        }
+    },
+    {
+        "id": 433,
+        "labels": [
+            "Prismarine Bricks"
+        ],
+        "properties": {
+            "name": "prismarine_bricks"
+        }
+    },
+    {
+        "id": 434,
+        "labels": [
+            "Dark Prismarine"
+        ],
+        "properties": {
+            "name": "dark_prismarine"
+        }
+    },
+    {
+        "id": 435,
+        "labels": [
+            "Prismarine Stairs"
+        ],
+        "properties": {
+            "name": "prismarine_stairs"
+        }
+    },
+    {
+        "id": 436,
+        "labels": [
+            "Prismarine Brick Stairs"
+        ],
+        "properties": {
+            "name": "prismarine_brick_stairs"
+        }
+    },
+    {
+        "id": 437,
+        "labels": [
+            "Dark Prismarine Stairs"
+        ],
+        "properties": {
+            "name": "dark_prismarine_stairs"
+        }
+    },
+    {
+        "id": 438,
+        "labels": [
+            "Sea Lantern"
+        ],
+        "properties": {
+            "name": "sea_lantern"
+        }
+    },
+    {
+        "id": 439,
+        "labels": [
+            "Red Sandstone"
+        ],
+        "properties": {
+            "name": "red_sandstone"
+        }
+    },
+    {
+        "id": 440,
+        "labels": [
+            "Chiseled Red Sandstone"
+        ],
+        "properties": {
+            "name": "chiseled_red_sandstone"
+        }
+    },
+    {
+        "id": 441,
+        "labels": [
+            "Cut Red Sandstone"
+        ],
+        "properties": {
+            "name": "cut_red_sandstone"
+        }
+    },
+    {
+        "id": 442,
+        "labels": [
+            "Red Sandstone Stairs"
+        ],
+        "properties": {
+            "name": "red_sandstone_stairs"
+        }
+    },
+    {
+        "id": 443,
+        "labels": [
+            "Repeating Command Block"
+        ],
+        "properties": {
+            "name": "repeating_command_block"
+        }
+    },
+    {
+        "id": 444,
+        "labels": [
+            "Chain Command Block"
+        ],
+        "properties": {
+            "name": "chain_command_block"
+        }
+    },
+    {
+        "id": 445,
+        "labels": [
+            "Magma Block"
+        ],
+        "properties": {
+            "name": "magma_block"
+        }
+    },
+    {
+        "id": 446,
+        "labels": [
+            "Nether Wart Block"
+        ],
+        "properties": {
+            "name": "nether_wart_block"
+        }
+    },
+    {
+        "id": 447,
+        "labels": [
+            "Warped Wart Block"
+        ],
+        "properties": {
+            "name": "warped_wart_block"
+        }
+    },
+    {
+        "id": 448,
+        "labels": [
+            "Red Nether Bricks"
+        ],
+        "properties": {
+            "name": "red_nether_bricks"
+        }
+    },
+    {
+        "id": 449,
+        "labels": [
+            "Bone Block"
+        ],
+        "properties": {
+            "name": "bone_block"
+        }
+    },
+    {
+        "id": 450,
+        "labels": [
+            "Structure Void"
+        ],
+        "properties": {
+            "name": "structure_void"
+        }
+    },
+    {
+        "id": 451,
+        "labels": [
+            "Shulker Box"
+        ],
+        "properties": {
+            "name": "shulker_box"
+        }
+    },
+    {
+        "id": 452,
+        "labels": [
+            "White Shulker Box"
+        ],
+        "properties": {
+            "name": "white_shulker_box"
+        }
+    },
+    {
+        "id": 453,
+        "labels": [
+            "Orange Shulker Box"
+        ],
+        "properties": {
+            "name": "orange_shulker_box"
+        }
+    },
+    {
+        "id": 454,
+        "labels": [
+            "Magenta Shulker Box"
+        ],
+        "properties": {
+            "name": "magenta_shulker_box"
+        }
+    },
+    {
+        "id": 455,
+        "labels": [
+            "Light Blue Shulker Box"
+        ],
+        "properties": {
+            "name": "light_blue_shulker_box"
+        }
+    },
+    {
+        "id": 456,
+        "labels": [
+            "Yellow Shulker Box"
+        ],
+        "properties": {
+            "name": "yellow_shulker_box"
+        }
+    },
+    {
+        "id": 457,
+        "labels": [
+            "Lime Shulker Box"
+        ],
+        "properties": {
+            "name": "lime_shulker_box"
+        }
+    },
+    {
+        "id": 458,
+        "labels": [
+            "Pink Shulker Box"
+        ],
+        "properties": {
+            "name": "pink_shulker_box"
+        }
+    },
+    {
+        "id": 459,
+        "labels": [
+            "Gray Shulker Box"
+        ],
+        "properties": {
+            "name": "gray_shulker_box"
+        }
+    },
+    {
+        "id": 460,
+        "labels": [
+            "Light Gray Shulker Box"
+        ],
+        "properties": {
+            "name": "light_gray_shulker_box"
+        }
+    },
+    {
+        "id": 461,
+        "labels": [
+            "Cyan Shulker Box"
+        ],
+        "properties": {
+            "name": "cyan_shulker_box"
+        }
+    },
+    {
+        "id": 462,
+        "labels": [
+            "Purple Shulker Box"
+        ],
+        "properties": {
+            "name": "purple_shulker_box"
+        }
+    },
+    {
+        "id": 463,
+        "labels": [
+            "Blue Shulker Box"
+        ],
+        "properties": {
+            "name": "blue_shulker_box"
+        }
+    },
+    {
+        "id": 464,
+        "labels": [
+            "Brown Shulker Box"
+        ],
+        "properties": {
+            "name": "brown_shulker_box"
+        }
+    },
+    {
+        "id": 465,
+        "labels": [
+            "Green Shulker Box"
+        ],
+        "properties": {
+            "name": "green_shulker_box"
+        }
+    },
+    {
+        "id": 466,
+        "labels": [
+            "Red Shulker Box"
+        ],
+        "properties": {
+            "name": "red_shulker_box"
+        }
+    },
+    {
+        "id": 467,
+        "labels": [
+            "Black Shulker Box"
+        ],
+        "properties": {
+            "name": "black_shulker_box"
+        }
+    },
+    {
+        "id": 468,
+        "labels": [
+            "White Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "white_glazed_terracotta"
+        }
+    },
+    {
+        "id": 469,
+        "labels": [
+            "Orange Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "orange_glazed_terracotta"
+        }
+    },
+    {
+        "id": 470,
+        "labels": [
+            "Magenta Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "magenta_glazed_terracotta"
+        }
+    },
+    {
+        "id": 471,
+        "labels": [
+            "Light Blue Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "light_blue_glazed_terracotta"
+        }
+    },
+    {
+        "id": 472,
+        "labels": [
+            "Yellow Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "yellow_glazed_terracotta"
+        }
+    },
+    {
+        "id": 473,
+        "labels": [
+            "Lime Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "lime_glazed_terracotta"
+        }
+    },
+    {
+        "id": 474,
+        "labels": [
+            "Pink Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "pink_glazed_terracotta"
+        }
+    },
+    {
+        "id": 475,
+        "labels": [
+            "Gray Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "gray_glazed_terracotta"
+        }
+    },
+    {
+        "id": 476,
+        "labels": [
+            "Light Gray Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "light_gray_glazed_terracotta"
+        }
+    },
+    {
+        "id": 477,
+        "labels": [
+            "Cyan Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "cyan_glazed_terracotta"
+        }
+    },
+    {
+        "id": 478,
+        "labels": [
+            "Purple Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "purple_glazed_terracotta"
+        }
+    },
+    {
+        "id": 479,
+        "labels": [
+            "Blue Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "blue_glazed_terracotta"
+        }
+    },
+    {
+        "id": 480,
+        "labels": [
+            "Brown Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "brown_glazed_terracotta"
+        }
+    },
+    {
+        "id": 481,
+        "labels": [
+            "Green Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "green_glazed_terracotta"
+        }
+    },
+    {
+        "id": 482,
+        "labels": [
+            "Red Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "red_glazed_terracotta"
+        }
+    },
+    {
+        "id": 483,
+        "labels": [
+            "Black Glazed Terracotta"
+        ],
+        "properties": {
+            "name": "black_glazed_terracotta"
+        }
+    },
+    {
+        "id": 484,
+        "labels": [
+            "White Concrete"
+        ],
+        "properties": {
+            "name": "white_concrete"
+        }
+    },
+    {
+        "id": 485,
+        "labels": [
+            "Orange Concrete"
+        ],
+        "properties": {
+            "name": "orange_concrete"
+        }
+    },
+    {
+        "id": 486,
+        "labels": [
+            "Magenta Concrete"
+        ],
+        "properties": {
+            "name": "magenta_concrete"
+        }
+    },
+    {
+        "id": 487,
+        "labels": [
+            "Light Blue Concrete"
+        ],
+        "properties": {
+            "name": "light_blue_concrete"
+        }
+    },
+    {
+        "id": 488,
+        "labels": [
+            "Yellow Concrete"
+        ],
+        "properties": {
+            "name": "yellow_concrete"
+        }
+    },
+    {
+        "id": 489,
+        "labels": [
+            "Lime Concrete"
+        ],
+        "properties": {
+            "name": "lime_concrete"
+        }
+    },
+    {
+        "id": 490,
+        "labels": [
+            "Pink Concrete"
+        ],
+        "properties": {
+            "name": "pink_concrete"
+        }
+    },
+    {
+        "id": 491,
+        "labels": [
+            "Gray Concrete"
+        ],
+        "properties": {
+            "name": "gray_concrete"
+        }
+    },
+    {
+        "id": 492,
+        "labels": [
+            "Light Gray Concrete"
+        ],
+        "properties": {
+            "name": "light_gray_concrete"
+        }
+    },
+    {
+        "id": 493,
+        "labels": [
+            "Cyan Concrete"
+        ],
+        "properties": {
+            "name": "cyan_concrete"
+        }
+    },
+    {
+        "id": 494,
+        "labels": [
+            "Purple Concrete"
+        ],
+        "properties": {
+            "name": "purple_concrete"
+        }
+    },
+    {
+        "id": 495,
+        "labels": [
+            "Blue Concrete"
+        ],
+        "properties": {
+            "name": "blue_concrete"
+        }
+    },
+    {
+        "id": 496,
+        "labels": [
+            "Brown Concrete"
+        ],
+        "properties": {
+            "name": "brown_concrete"
+        }
+    },
+    {
+        "id": 497,
+        "labels": [
+            "Green Concrete"
+        ],
+        "properties": {
+            "name": "green_concrete"
+        }
+    },
+    {
+        "id": 498,
+        "labels": [
+            "Red Concrete"
+        ],
+        "properties": {
+            "name": "red_concrete"
+        }
+    },
+    {
+        "id": 499,
+        "labels": [
+            "Black Concrete"
+        ],
+        "properties": {
+            "name": "black_concrete"
+        }
+    },
+    {
+        "id": 500,
+        "labels": [
+            "White Concrete Powder"
+        ],
+        "properties": {
+            "name": "white_concrete_powder"
+        }
+    },
+    {
+        "id": 501,
+        "labels": [
+            "Orange Concrete Powder"
+        ],
+        "properties": {
+            "name": "orange_concrete_powder"
+        }
+    },
+    {
+        "id": 502,
+        "labels": [
+            "Magenta Concrete Powder"
+        ],
+        "properties": {
+            "name": "magenta_concrete_powder"
+        }
+    },
+    {
+        "id": 503,
+        "labels": [
+            "Light Blue Concrete Powder"
+        ],
+        "properties": {
+            "name": "light_blue_concrete_powder"
+        }
+    },
+    {
+        "id": 504,
+        "labels": [
+            "Yellow Concrete Powder"
+        ],
+        "properties": {
+            "name": "yellow_concrete_powder"
+        }
+    },
+    {
+        "id": 505,
+        "labels": [
+            "Lime Concrete Powder"
+        ],
+        "properties": {
+            "name": "lime_concrete_powder"
+        }
+    },
+    {
+        "id": 506,
+        "labels": [
+            "Pink Concrete Powder"
+        ],
+        "properties": {
+            "name": "pink_concrete_powder"
+        }
+    },
+    {
+        "id": 507,
+        "labels": [
+            "Gray Concrete Powder"
+        ],
+        "properties": {
+            "name": "gray_concrete_powder"
+        }
+    },
+    {
+        "id": 508,
+        "labels": [
+            "Light Gray Concrete Powder"
+        ],
+        "properties": {
+            "name": "light_gray_concrete_powder"
+        }
+    },
+    {
+        "id": 509,
+        "labels": [
+            "Cyan Concrete Powder"
+        ],
+        "properties": {
+            "name": "cyan_concrete_powder"
+        }
+    },
+    {
+        "id": 510,
+        "labels": [
+            "Purple Concrete Powder"
+        ],
+        "properties": {
+            "name": "purple_concrete_powder"
+        }
+    },
+    {
+        "id": 511,
+        "labels": [
+            "Blue Concrete Powder"
+        ],
+        "properties": {
+            "name": "blue_concrete_powder"
+        }
+    },
+    {
+        "id": 512,
+        "labels": [
+            "Brown Concrete Powder"
+        ],
+        "properties": {
+            "name": "brown_concrete_powder"
+        }
+    },
+    {
+        "id": 513,
+        "labels": [
+            "Green Concrete Powder"
+        ],
+        "properties": {
+            "name": "green_concrete_powder"
+        }
+    },
+    {
+        "id": 514,
+        "labels": [
+            "Red Concrete Powder"
+        ],
+        "properties": {
+            "name": "red_concrete_powder"
+        }
+    },
+    {
+        "id": 515,
+        "labels": [
+            "Black Concrete Powder"
+        ],
+        "properties": {
+            "name": "black_concrete_powder"
+        }
+    },
+    {
+        "id": 516,
+        "labels": [
+            "Turtle Egg"
+        ],
+        "properties": {
+            "name": "turtle_egg"
+        }
+    },
+    {
+        "id": 517,
+        "labels": [
+            "Dead Tube Coral Block"
+        ],
+        "properties": {
+            "name": "dead_tube_coral_block"
+        }
+    },
+    {
+        "id": 518,
+        "labels": [
+            "Dead Brain Coral Block"
+        ],
+        "properties": {
+            "name": "dead_brain_coral_block"
+        }
+    },
+    {
+        "id": 519,
+        "labels": [
+            "Dead Bubble Coral Block"
+        ],
+        "properties": {
+            "name": "dead_bubble_coral_block"
+        }
+    },
+    {
+        "id": 520,
+        "labels": [
+            "Dead Fire Coral Block"
+        ],
+        "properties": {
+            "name": "dead_fire_coral_block"
+        }
+    },
+    {
+        "id": 521,
+        "labels": [
+            "Dead Horn Coral Block"
+        ],
+        "properties": {
+            "name": "dead_horn_coral_block"
+        }
+    },
+    {
+        "id": 522,
+        "labels": [
+            "Tube Coral Block"
+        ],
+        "properties": {
+            "name": "tube_coral_block"
+        }
+    },
+    {
+        "id": 523,
+        "labels": [
+            "Brain Coral Block"
+        ],
+        "properties": {
+            "name": "brain_coral_block"
+        }
+    },
+    {
+        "id": 524,
+        "labels": [
+            "Bubble Coral Block"
+        ],
+        "properties": {
+            "name": "bubble_coral_block"
+        }
+    },
+    {
+        "id": 525,
+        "labels": [
+            "Fire Coral Block"
+        ],
+        "properties": {
+            "name": "fire_coral_block"
+        }
+    },
+    {
+        "id": 526,
+        "labels": [
+            "Horn Coral Block"
+        ],
+        "properties": {
+            "name": "horn_coral_block"
+        }
+    },
+    {
+        "id": 527,
+        "labels": [
+            "Tube Coral"
+        ],
+        "properties": {
+            "name": "tube_coral"
+        }
+    },
+    {
+        "id": 528,
+        "labels": [
+            "Brain Coral"
+        ],
+        "properties": {
+            "name": "brain_coral"
+        }
+    },
+    {
+        "id": 529,
+        "labels": [
+            "Bubble Coral"
+        ],
+        "properties": {
+            "name": "bubble_coral"
+        }
+    },
+    {
+        "id": 530,
+        "labels": [
+            "Fire Coral"
+        ],
+        "properties": {
+            "name": "fire_coral"
+        }
+    },
+    {
+        "id": 531,
+        "labels": [
+            "Horn Coral"
+        ],
+        "properties": {
+            "name": "horn_coral"
+        }
+    },
+    {
+        "id": 532,
+        "labels": [
+            "Dead Brain Coral"
+        ],
+        "properties": {
+            "name": "dead_brain_coral"
+        }
+    },
+    {
+        "id": 533,
+        "labels": [
+            "Dead Bubble Coral"
+        ],
+        "properties": {
+            "name": "dead_bubble_coral"
+        }
+    },
+    {
+        "id": 534,
+        "labels": [
+            "Dead Fire Coral"
+        ],
+        "properties": {
+            "name": "dead_fire_coral"
+        }
+    },
+    {
+        "id": 535,
+        "labels": [
+            "Dead Horn Coral"
+        ],
+        "properties": {
+            "name": "dead_horn_coral"
+        }
+    },
+    {
+        "id": 536,
+        "labels": [
+            "Dead Tube Coral"
+        ],
+        "properties": {
+            "name": "dead_tube_coral"
+        }
+    },
+    {
+        "id": 537,
+        "labels": [
+            "Tube Coral Fan"
+        ],
+        "properties": {
+            "name": "tube_coral_fan"
+        }
+    },
+    {
+        "id": 538,
+        "labels": [
+            "Brain Coral Fan"
+        ],
+        "properties": {
+            "name": "brain_coral_fan"
+        }
+    },
+    {
+        "id": 539,
+        "labels": [
+            "Bubble Coral Fan"
+        ],
+        "properties": {
+            "name": "bubble_coral_fan"
+        }
+    },
+    {
+        "id": 540,
+        "labels": [
+            "Fire Coral Fan"
+        ],
+        "properties": {
+            "name": "fire_coral_fan"
+        }
+    },
+    {
+        "id": 541,
+        "labels": [
+            "Horn Coral Fan"
+        ],
+        "properties": {
+            "name": "horn_coral_fan"
+        }
+    },
+    {
+        "id": 542,
+        "labels": [
+            "Dead Tube Coral Fan"
+        ],
+        "properties": {
+            "name": "dead_tube_coral_fan"
+        }
+    },
+    {
+        "id": 543,
+        "labels": [
+            "Dead Brain Coral Fan"
+        ],
+        "properties": {
+            "name": "dead_brain_coral_fan"
+        }
+    },
+    {
+        "id": 544,
+        "labels": [
+            "Dead Bubble Coral Fan"
+        ],
+        "properties": {
+            "name": "dead_bubble_coral_fan"
+        }
+    },
+    {
+        "id": 545,
+        "labels": [
+            "Dead Fire Coral Fan"
+        ],
+        "properties": {
+            "name": "dead_fire_coral_fan"
+        }
+    },
+    {
+        "id": 546,
+        "labels": [
+            "Dead Horn Coral Fan"
+        ],
+        "properties": {
+            "name": "dead_horn_coral_fan"
+        }
+    },
+    {
+        "id": 547,
+        "labels": [
+            "Blue Ice"
+        ],
+        "properties": {
+            "name": "blue_ice"
+        }
+    },
+    {
+        "id": 548,
+        "labels": [
+            "Conduit"
+        ],
+        "properties": {
+            "name": "conduit"
+        }
+    },
+    {
+        "id": 549,
+        "labels": [
+            "Polished Granite Stairs"
+        ],
+        "properties": {
+            "name": "polished_granite_stairs"
+        }
+    },
+    {
+        "id": 550,
+        "labels": [
+            "Smooth Red Sandstone Stairs"
+        ],
+        "properties": {
+            "name": "smooth_red_sandstone_stairs"
+        }
+    },
+    {
+        "id": 551,
+        "labels": [
+            "Mossy Stone Brick Stairs"
+        ],
+        "properties": {
+            "name": "mossy_stone_brick_stairs"
+        }
+    },
+    {
+        "id": 552,
+        "labels": [
+            "Polished Diorite Stairs"
+        ],
+        "properties": {
+            "name": "polished_diorite_stairs"
+        }
+    },
+    {
+        "id": 553,
+        "labels": [
+            "Mossy Cobblestone Stairs"
+        ],
+        "properties": {
+            "name": "mossy_cobblestone_stairs"
+        }
+    },
+    {
+        "id": 554,
+        "labels": [
+            "End Stone Brick Stairs"
+        ],
+        "properties": {
+            "name": "end_stone_brick_stairs"
+        }
+    },
+    {
+        "id": 555,
+        "labels": [
+            "Stone Stairs"
+        ],
+        "properties": {
+            "name": "stone_stairs"
+        }
+    },
+    {
+        "id": 556,
+        "labels": [
+            "Smooth Sandstone Stairs"
+        ],
+        "properties": {
+            "name": "smooth_sandstone_stairs"
+        }
+    },
+    {
+        "id": 557,
+        "labels": [
+            "Smooth Quartz Stairs"
+        ],
+        "properties": {
+            "name": "smooth_quartz_stairs"
+        }
+    },
+    {
+        "id": 558,
+        "labels": [
+            "Granite Stairs"
+        ],
+        "properties": {
+            "name": "granite_stairs"
+        }
+    },
+    {
+        "id": 559,
+        "labels": [
+            "Andesite Stairs"
+        ],
+        "properties": {
+            "name": "andesite_stairs"
+        }
+    },
+    {
+        "id": 560,
+        "labels": [
+            "Red Nether Brick Stairs"
+        ],
+        "properties": {
+            "name": "red_nether_brick_stairs"
+        }
+    },
+    {
+        "id": 561,
+        "labels": [
+            "Polished Andesite Stairs"
+        ],
+        "properties": {
+            "name": "polished_andesite_stairs"
+        }
+    },
+    {
+        "id": 562,
+        "labels": [
+            "Diorite Stairs"
+        ],
+        "properties": {
+            "name": "diorite_stairs"
+        }
+    },
+    {
+        "id": 563,
+        "labels": [
+            "Cobbled Deepslate Stairs"
+        ],
+        "properties": {
+            "name": "cobbled_deepslate_stairs"
+        }
+    },
+    {
+        "id": 564,
+        "labels": [
+            "Polished Deepslate Stairs"
+        ],
+        "properties": {
+            "name": "polished_deepslate_stairs"
+        }
+    },
+    {
+        "id": 565,
+        "labels": [
+            "Deepslate Brick Stairs"
+        ],
+        "properties": {
+            "name": "deepslate_brick_stairs"
+        }
+    },
+    {
+        "id": 566,
+        "labels": [
+            "Deepslate Tile Stairs"
+        ],
+        "properties": {
+            "name": "deepslate_tile_stairs"
+        }
+    },
+    {
+        "id": 567,
+        "labels": [
+            "Polished Granite Slab"
+        ],
+        "properties": {
+            "name": "polished_granite_slab"
+        }
+    },
+    {
+        "id": 568,
+        "labels": [
+            "Smooth Red Sandstone Slab"
+        ],
+        "properties": {
+            "name": "smooth_red_sandstone_slab"
+        }
+    },
+    {
+        "id": 569,
+        "labels": [
+            "Mossy Stone Brick Slab"
+        ],
+        "properties": {
+            "name": "mossy_stone_brick_slab"
+        }
+    },
+    {
+        "id": 570,
+        "labels": [
+            "Polished Diorite Slab"
+        ],
+        "properties": {
+            "name": "polished_diorite_slab"
+        }
+    },
+    {
+        "id": 571,
+        "labels": [
+            "Mossy Cobblestone Slab"
+        ],
+        "properties": {
+            "name": "mossy_cobblestone_slab"
+        }
+    },
+    {
+        "id": 572,
+        "labels": [
+            "End Stone Brick Slab"
+        ],
+        "properties": {
+            "name": "end_stone_brick_slab"
+        }
+    },
+    {
+        "id": 573,
+        "labels": [
+            "Smooth Sandstone Slab"
+        ],
+        "properties": {
+            "name": "smooth_sandstone_slab"
+        }
+    },
+    {
+        "id": 574,
+        "labels": [
+            "Smooth Quartz Slab"
+        ],
+        "properties": {
+            "name": "smooth_quartz_slab"
+        }
+    },
+    {
+        "id": 575,
+        "labels": [
+            "Granite Slab"
+        ],
+        "properties": {
+            "name": "granite_slab"
+        }
+    },
+    {
+        "id": 576,
+        "labels": [
+            "Andesite Slab"
+        ],
+        "properties": {
+            "name": "andesite_slab"
+        }
+    },
+    {
+        "id": 577,
+        "labels": [
+            "Red Nether Brick Slab"
+        ],
+        "properties": {
+            "name": "red_nether_brick_slab"
+        }
+    },
+    {
+        "id": 578,
+        "labels": [
+            "Polished Andesite Slab"
+        ],
+        "properties": {
+            "name": "polished_andesite_slab"
+        }
+    },
+    {
+        "id": 579,
+        "labels": [
+            "Diorite Slab"
+        ],
+        "properties": {
+            "name": "diorite_slab"
+        }
+    },
+    {
+        "id": 580,
+        "labels": [
+            "Cobbled Deepslate Slab"
+        ],
+        "properties": {
+            "name": "cobbled_deepslate_slab"
+        }
+    },
+    {
+        "id": 581,
+        "labels": [
+            "Polished Deepslate Slab"
+        ],
+        "properties": {
+            "name": "polished_deepslate_slab"
+        }
+    },
+    {
+        "id": 582,
+        "labels": [
+            "Deepslate Brick Slab"
+        ],
+        "properties": {
+            "name": "deepslate_brick_slab"
+        }
+    },
+    {
+        "id": 583,
+        "labels": [
+            "Deepslate Tile Slab"
+        ],
+        "properties": {
+            "name": "deepslate_tile_slab"
+        }
+    },
+    {
+        "id": 584,
+        "labels": [
+            "Scaffolding"
+        ],
+        "properties": {
+            "name": "scaffolding"
+        }
+    },
+    {
+        "id": 585,
+        "labels": [
+            "Redstone Dust"
+        ],
+        "properties": {
+            "name": "redstone"
+        }
+    },
+    {
+        "id": 586,
+        "labels": [
+            "Redstone Torch"
+        ],
+        "properties": {
+            "name": "redstone_torch"
+        }
+    },
+    {
+        "id": 587,
+        "labels": [
+            "Block of Redstone"
+        ],
+        "properties": {
+            "name": "redstone_block"
+        }
+    },
+    {
+        "id": 588,
+        "labels": [
+            "Redstone Repeater"
+        ],
+        "properties": {
+            "name": "repeater"
+        }
+    },
+    {
+        "id": 589,
+        "labels": [
+            "Redstone Comparator"
+        ],
+        "properties": {
+            "name": "comparator"
+        }
+    },
+    {
+        "id": 590,
+        "labels": [
+            "Piston"
+        ],
+        "properties": {
+            "name": "piston"
+        }
+    },
+    {
+        "id": 591,
+        "labels": [
+            "Sticky Piston"
+        ],
+        "properties": {
+            "name": "sticky_piston"
+        }
+    },
+    {
+        "id": 592,
+        "labels": [
+            "Slime Block"
+        ],
+        "properties": {
+            "name": "slime_block"
+        }
+    },
+    {
+        "id": 593,
+        "labels": [
+            "Honey Block"
+        ],
+        "properties": {
+            "name": "honey_block"
+        }
+    },
+    {
+        "id": 594,
+        "labels": [
+            "Observer"
+        ],
+        "properties": {
+            "name": "observer"
+        }
+    },
+    {
+        "id": 595,
+        "labels": [
+            "Hopper"
+        ],
+        "properties": {
+            "name": "hopper"
+        }
+    },
+    {
+        "id": 596,
+        "labels": [
+            "Dispenser"
+        ],
+        "properties": {
+            "name": "dispenser"
+        }
+    },
+    {
+        "id": 597,
+        "labels": [
+            "Dropper"
+        ],
+        "properties": {
+            "name": "dropper"
+        }
+    },
+    {
+        "id": 598,
+        "labels": [
+            "Lectern"
+        ],
+        "properties": {
+            "name": "lectern"
+        }
+    },
+    {
+        "id": 599,
+        "labels": [
+            "Target"
+        ],
+        "properties": {
+            "name": "target"
+        }
+    },
+    {
+        "id": 600,
+        "labels": [
+            "Lever"
+        ],
+        "properties": {
+            "name": "lever"
+        }
+    },
+    {
+        "id": 601,
+        "labels": [
+            "Lightning Rod"
+        ],
+        "properties": {
+            "name": "lightning_rod"
+        }
+    },
+    {
+        "id": 602,
+        "labels": [
+            "Daylight Detector"
+        ],
+        "properties": {
+            "name": "daylight_detector"
+        }
+    },
+    {
+        "id": 603,
+        "labels": [
+            "Sculk Sensor"
+        ],
+        "properties": {
+            "name": "sculk_sensor"
+        }
+    },
+    {
+        "id": 604,
+        "labels": [
+            "Tripwire Hook"
+        ],
+        "properties": {
+            "name": "tripwire_hook"
+        }
+    },
+    {
+        "id": 605,
+        "labels": [
+            "Trapped Chest"
+        ],
+        "properties": {
+            "name": "trapped_chest"
+        }
+    },
+    {
+        "id": 606,
+        "labels": [
+            "TNT"
+        ],
+        "properties": {
+            "name": "tnt"
+        }
+    },
+    {
+        "id": 607,
+        "labels": [
+            "Redstone Lamp"
+        ],
+        "properties": {
+            "name": "redstone_lamp"
+        }
+    },
+    {
+        "id": 608,
+        "labels": [
+            "Note Block"
+        ],
+        "properties": {
+            "name": "note_block"
+        }
+    },
+    {
+        "id": 609,
+        "labels": [
+            "Stone Button"
+        ],
+        "properties": {
+            "name": "stone_button"
+        }
+    },
+    {
+        "id": 610,
+        "labels": [
+            "Polished Blackstone Button"
+        ],
+        "properties": {
+            "name": "polished_blackstone_button"
+        }
+    },
+    {
+        "id": 611,
+        "labels": [
+            "Oak Button"
+        ],
+        "properties": {
+            "name": "oak_button"
+        }
+    },
+    {
+        "id": 612,
+        "labels": [
+            "Spruce Button"
+        ],
+        "properties": {
+            "name": "spruce_button"
+        }
+    },
+    {
+        "id": 613,
+        "labels": [
+            "Birch Button"
+        ],
+        "properties": {
+            "name": "birch_button"
+        }
+    },
+    {
+        "id": 614,
+        "labels": [
+            "Jungle Button"
+        ],
+        "properties": {
+            "name": "jungle_button"
+        }
+    },
+    {
+        "id": 615,
+        "labels": [
+            "Acacia Button"
+        ],
+        "properties": {
+            "name": "acacia_button"
+        }
+    },
+    {
+        "id": 616,
+        "labels": [
+            "Dark Oak Button"
+        ],
+        "properties": {
+            "name": "dark_oak_button"
+        }
+    },
+    {
+        "id": 617,
+        "labels": [
+            "Crimson Button"
+        ],
+        "properties": {
+            "name": "crimson_button"
+        }
+    },
+    {
+        "id": 618,
+        "labels": [
+            "Warped Button"
+        ],
+        "properties": {
+            "name": "warped_button"
+        }
+    },
+    {
+        "id": 619,
+        "labels": [
+            "Stone Pressure Plate"
+        ],
+        "properties": {
+            "name": "stone_pressure_plate"
+        }
+    },
+    {
+        "id": 620,
+        "labels": [
+            "Polished Blackstone Pressure Plate"
+        ],
+        "properties": {
+            "name": "polished_blackstone_pressure_plate"
+        }
+    },
+    {
+        "id": 621,
+        "labels": [
+            "Light Weighted Pressure Plate"
+        ],
+        "properties": {
+            "name": "light_weighted_pressure_plate"
+        }
+    },
+    {
+        "id": 622,
+        "labels": [
+            "Heavy Weighted Pressure Plate"
+        ],
+        "properties": {
+            "name": "heavy_weighted_pressure_plate"
+        }
+    },
+    {
+        "id": 623,
+        "labels": [
+            "Oak Pressure Plate"
+        ],
+        "properties": {
+            "name": "oak_pressure_plate"
+        }
+    },
+    {
+        "id": 624,
+        "labels": [
+            "Spruce Pressure Plate"
+        ],
+        "properties": {
+            "name": "spruce_pressure_plate"
+        }
+    },
+    {
+        "id": 625,
+        "labels": [
+            "Birch Pressure Plate"
+        ],
+        "properties": {
+            "name": "birch_pressure_plate"
+        }
+    },
+    {
+        "id": 626,
+        "labels": [
+            "Jungle Pressure Plate"
+        ],
+        "properties": {
+            "name": "jungle_pressure_plate"
+        }
+    },
+    {
+        "id": 627,
+        "labels": [
+            "Acacia Pressure Plate"
+        ],
+        "properties": {
+            "name": "acacia_pressure_plate"
+        }
+    },
+    {
+        "id": 628,
+        "labels": [
+            "Dark Oak Pressure Plate"
+        ],
+        "properties": {
+            "name": "dark_oak_pressure_plate"
+        }
+    },
+    {
+        "id": 629,
+        "labels": [
+            "Crimson Pressure Plate"
+        ],
+        "properties": {
+            "name": "crimson_pressure_plate"
+        }
+    },
+    {
+        "id": 630,
+        "labels": [
+            "Warped Pressure Plate"
+        ],
+        "properties": {
+            "name": "warped_pressure_plate"
+        }
+    },
+    {
+        "id": 631,
+        "labels": [
+            "Iron Door"
+        ],
+        "properties": {
+            "name": "iron_door"
+        }
+    },
+    {
+        "id": 632,
+        "labels": [
+            "Oak Door"
+        ],
+        "properties": {
+            "name": "oak_door"
+        }
+    },
+    {
+        "id": 633,
+        "labels": [
+            "Spruce Door"
+        ],
+        "properties": {
+            "name": "spruce_door"
+        }
+    },
+    {
+        "id": 634,
+        "labels": [
+            "Birch Door"
+        ],
+        "properties": {
+            "name": "birch_door"
+        }
+    },
+    {
+        "id": 635,
+        "labels": [
+            "Jungle Door"
+        ],
+        "properties": {
+            "name": "jungle_door"
+        }
+    },
+    {
+        "id": 636,
+        "labels": [
+            "Acacia Door"
+        ],
+        "properties": {
+            "name": "acacia_door"
+        }
+    },
+    {
+        "id": 637,
+        "labels": [
+            "Dark Oak Door"
+        ],
+        "properties": {
+            "name": "dark_oak_door"
+        }
+    },
+    {
+        "id": 638,
+        "labels": [
+            "Crimson Door"
+        ],
+        "properties": {
+            "name": "crimson_door"
+        }
+    },
+    {
+        "id": 639,
+        "labels": [
+            "Warped Door"
+        ],
+        "properties": {
+            "name": "warped_door"
+        }
+    },
+    {
+        "id": 640,
+        "labels": [
+            "Iron Trapdoor"
+        ],
+        "properties": {
+            "name": "iron_trapdoor"
+        }
+    },
+    {
+        "id": 641,
+        "labels": [
+            "Oak Trapdoor"
+        ],
+        "properties": {
+            "name": "oak_trapdoor"
+        }
+    },
+    {
+        "id": 642,
+        "labels": [
+            "Spruce Trapdoor"
+        ],
+        "properties": {
+            "name": "spruce_trapdoor"
+        }
+    },
+    {
+        "id": 643,
+        "labels": [
+            "Birch Trapdoor"
+        ],
+        "properties": {
+            "name": "birch_trapdoor"
+        }
+    },
+    {
+        "id": 644,
+        "labels": [
+            "Jungle Trapdoor"
+        ],
+        "properties": {
+            "name": "jungle_trapdoor"
+        }
+    },
+    {
+        "id": 645,
+        "labels": [
+            "Acacia Trapdoor"
+        ],
+        "properties": {
+            "name": "acacia_trapdoor"
+        }
+    },
+    {
+        "id": 646,
+        "labels": [
+            "Dark Oak Trapdoor"
+        ],
+        "properties": {
+            "name": "dark_oak_trapdoor"
+        }
+    },
+    {
+        "id": 647,
+        "labels": [
+            "Crimson Trapdoor"
+        ],
+        "properties": {
+            "name": "crimson_trapdoor"
+        }
+    },
+    {
+        "id": 648,
+        "labels": [
+            "Warped Trapdoor"
+        ],
+        "properties": {
+            "name": "warped_trapdoor"
+        }
+    },
+    {
+        "id": 649,
+        "labels": [
+            "Oak Fence Gate"
+        ],
+        "properties": {
+            "name": "oak_fence_gate"
+        }
+    },
+    {
+        "id": 650,
+        "labels": [
+            "Spruce Fence Gate"
+        ],
+        "properties": {
+            "name": "spruce_fence_gate"
+        }
+    },
+    {
+        "id": 651,
+        "labels": [
+            "Birch Fence Gate"
+        ],
+        "properties": {
+            "name": "birch_fence_gate"
+        }
+    },
+    {
+        "id": 652,
+        "labels": [
+            "Jungle Fence Gate"
+        ],
+        "properties": {
+            "name": "jungle_fence_gate"
+        }
+    },
+    {
+        "id": 653,
+        "labels": [
+            "Acacia Fence Gate"
+        ],
+        "properties": {
+            "name": "acacia_fence_gate"
+        }
+    },
+    {
+        "id": 654,
+        "labels": [
+            "Dark Oak Fence Gate"
+        ],
+        "properties": {
+            "name": "dark_oak_fence_gate"
+        }
+    },
+    {
+        "id": 655,
+        "labels": [
+            "Crimson Fence Gate"
+        ],
+        "properties": {
+            "name": "crimson_fence_gate"
+        }
+    },
+    {
+        "id": 656,
+        "labels": [
+            "Warped Fence Gate"
+        ],
+        "properties": {
+            "name": "warped_fence_gate"
+        }
+    },
+    {
+        "id": 657,
+        "labels": [
+            "Powered Rail"
+        ],
+        "properties": {
+            "name": "powered_rail"
+        }
+    },
+    {
+        "id": 658,
+        "labels": [
+            "Detector Rail"
+        ],
+        "properties": {
+            "name": "detector_rail"
+        }
+    },
+    {
+        "id": 659,
+        "labels": [
+            "Rail"
+        ],
+        "properties": {
+            "name": "rail"
+        }
+    },
+    {
+        "id": 660,
+        "labels": [
+            "Activator Rail"
+        ],
+        "properties": {
+            "name": "activator_rail"
+        }
+    },
+    {
+        "id": 661,
+        "labels": [
+            "Saddle"
+        ],
+        "properties": {
+            "name": "saddle"
+        }
+    },
+    {
+        "id": 662,
+        "labels": [
+            "Minecart"
+        ],
+        "properties": {
+            "name": "minecart"
+        }
+    },
+    {
+        "id": 663,
+        "labels": [
+            "Minecart with Chest"
+        ],
+        "properties": {
+            "name": "chest_minecart"
+        }
+    },
+    {
+        "id": 664,
+        "labels": [
+            "Minecart with Furnace"
+        ],
+        "properties": {
+            "name": "furnace_minecart"
+        }
+    },
+    {
+        "id": 665,
+        "labels": [
+            "Minecart with TNT"
+        ],
+        "properties": {
+            "name": "tnt_minecart"
+        }
+    },
+    {
+        "id": 666,
+        "labels": [
+            "Minecart with Hopper"
+        ],
+        "properties": {
+            "name": "hopper_minecart"
+        }
+    },
+    {
+        "id": 667,
+        "labels": [
+            "Carrot on a Stick"
+        ],
+        "properties": {
+            "name": "carrot_on_a_stick"
+        }
+    },
+    {
+        "id": 668,
+        "labels": [
+            "Warped Fungus on a Stick"
+        ],
+        "properties": {
+            "name": "warped_fungus_on_a_stick"
+        }
+    },
+    {
+        "id": 669,
+        "labels": [
+            "Elytra"
+        ],
+        "properties": {
+            "name": "elytra"
+        }
+    },
+    {
+        "id": 670,
+        "labels": [
+            "Oak Boat"
+        ],
+        "properties": {
+            "name": "oak_boat"
+        }
+    },
+    {
+        "id": 671,
+        "labels": [
+            "Spruce Boat"
+        ],
+        "properties": {
+            "name": "spruce_boat"
+        }
+    },
+    {
+        "id": 672,
+        "labels": [
+            "Birch Boat"
+        ],
+        "properties": {
+            "name": "birch_boat"
+        }
+    },
+    {
+        "id": 673,
+        "labels": [
+            "Jungle Boat"
+        ],
+        "properties": {
+            "name": "jungle_boat"
+        }
+    },
+    {
+        "id": 674,
+        "labels": [
+            "Acacia Boat"
+        ],
+        "properties": {
+            "name": "acacia_boat"
+        }
+    },
+    {
+        "id": 675,
+        "labels": [
+            "Dark Oak Boat"
+        ],
+        "properties": {
+            "name": "dark_oak_boat"
+        }
+    },
+    {
+        "id": 676,
+        "labels": [
+            "Structure Block"
+        ],
+        "properties": {
+            "name": "structure_block"
+        }
+    },
+    {
+        "id": 677,
+        "labels": [
+            "Jigsaw Block"
+        ],
+        "properties": {
+            "name": "jigsaw"
+        }
+    },
+    {
+        "id": 678,
+        "labels": [
+            "Turtle Shell"
+        ],
+        "properties": {
+            "name": "turtle_helmet"
+        }
+    },
+    {
+        "id": 679,
+        "labels": [
+            "Scute"
+        ],
+        "properties": {
+            "name": "scute"
+        }
+    },
+    {
+        "id": 680,
+        "labels": [
+            "Flint and Steel"
+        ],
+        "properties": {
+            "name": "flint_and_steel"
+        }
+    },
+    {
+        "id": 681,
+        "labels": [
+            "Apple"
+        ],
+        "properties": {
+            "name": "apple"
+        }
+    },
+    {
+        "id": 682,
+        "labels": [
+            "Bow"
+        ],
+        "properties": {
+            "name": "bow"
+        }
+    },
+    {
+        "id": 683,
+        "labels": [
+            "Arrow"
+        ],
+        "properties": {
+            "name": "arrow"
+        }
+    },
+    {
+        "id": 684,
+        "labels": [
+            "Coal"
+        ],
+        "properties": {
+            "name": "coal"
+        }
+    },
+    {
+        "id": 685,
+        "labels": [
+            "Charcoal"
+        ],
+        "properties": {
+            "name": "charcoal"
+        }
+    },
+    {
+        "id": 686,
+        "labels": [
+            "Diamond"
+        ],
+        "properties": {
+            "name": "diamond"
+        }
+    },
+    {
+        "id": 687,
+        "labels": [
+            "Emerald"
+        ],
+        "properties": {
+            "name": "emerald"
+        }
+    },
+    {
+        "id": 688,
+        "labels": [
+            "Lapis Lazuli"
+        ],
+        "properties": {
+            "name": "lapis_lazuli"
+        }
+    },
+    {
+        "id": 689,
+        "labels": [
+            "Nether Quartz"
+        ],
+        "properties": {
+            "name": "quartz"
+        }
+    },
+    {
+        "id": 690,
+        "labels": [
+            "Amethyst Shard"
+        ],
+        "properties": {
+            "name": "amethyst_shard"
+        }
+    },
+    {
+        "id": 691,
+        "labels": [
+            "Raw Iron"
+        ],
+        "properties": {
+            "name": "raw_iron"
+        }
+    },
+    {
+        "id": 692,
+        "labels": [
+            "Iron Ingot"
+        ],
+        "properties": {
+            "name": "iron_ingot"
+        }
+    },
+    {
+        "id": 693,
+        "labels": [
+            "Raw Copper"
+        ],
+        "properties": {
+            "name": "raw_copper"
+        }
+    },
+    {
+        "id": 694,
+        "labels": [
+            "Copper Ingot"
+        ],
+        "properties": {
+            "name": "copper_ingot"
+        }
+    },
+    {
+        "id": 695,
+        "labels": [
+            "Raw Gold"
+        ],
+        "properties": {
+            "name": "raw_gold"
+        }
+    },
+    {
+        "id": 696,
+        "labels": [
+            "Gold Ingot"
+        ],
+        "properties": {
+            "name": "gold_ingot"
+        }
+    },
+    {
+        "id": 697,
+        "labels": [
+            "Netherite Ingot"
+        ],
+        "properties": {
+            "name": "netherite_ingot"
+        }
+    },
+    {
+        "id": 698,
+        "labels": [
+            "Netherite Scrap"
+        ],
+        "properties": {
+            "name": "netherite_scrap"
+        }
+    },
+    {
+        "id": 699,
+        "labels": [
+            "Wooden Sword"
+        ],
+        "properties": {
+            "name": "wooden_sword"
+        }
+    },
+    {
+        "id": 700,
+        "labels": [
+            "Wooden Shovel"
+        ],
+        "properties": {
+            "name": "wooden_shovel"
+        }
+    },
+    {
+        "id": 701,
+        "labels": [
+            "Wooden Pickaxe"
+        ],
+        "properties": {
+            "name": "wooden_pickaxe"
+        }
+    },
+    {
+        "id": 702,
+        "labels": [
+            "Wooden Axe"
+        ],
+        "properties": {
+            "name": "wooden_axe"
+        }
+    },
+    {
+        "id": 703,
+        "labels": [
+            "Wooden Hoe"
+        ],
+        "properties": {
+            "name": "wooden_hoe"
+        }
+    },
+    {
+        "id": 704,
+        "labels": [
+            "Stone Sword"
+        ],
+        "properties": {
+            "name": "stone_sword"
+        }
+    },
+    {
+        "id": 705,
+        "labels": [
+            "Stone Shovel"
+        ],
+        "properties": {
+            "name": "stone_shovel"
+        }
+    },
+    {
+        "id": 706,
+        "labels": [
+            "Stone Pickaxe"
+        ],
+        "properties": {
+            "name": "stone_pickaxe"
+        }
+    },
+    {
+        "id": 707,
+        "labels": [
+            "Stone Axe"
+        ],
+        "properties": {
+            "name": "stone_axe"
+        }
+    },
+    {
+        "id": 708,
+        "labels": [
+            "Stone Hoe"
+        ],
+        "properties": {
+            "name": "stone_hoe"
+        }
+    },
+    {
+        "id": 709,
+        "labels": [
+            "Golden Sword"
+        ],
+        "properties": {
+            "name": "golden_sword"
+        }
+    },
+    {
+        "id": 710,
+        "labels": [
+            "Golden Shovel"
+        ],
+        "properties": {
+            "name": "golden_shovel"
+        }
+    },
+    {
+        "id": 711,
+        "labels": [
+            "Golden Pickaxe"
+        ],
+        "properties": {
+            "name": "golden_pickaxe"
+        }
+    },
+    {
+        "id": 712,
+        "labels": [
+            "Golden Axe"
+        ],
+        "properties": {
+            "name": "golden_axe"
+        }
+    },
+    {
+        "id": 713,
+        "labels": [
+            "Golden Hoe"
+        ],
+        "properties": {
+            "name": "golden_hoe"
+        }
+    },
+    {
+        "id": 714,
+        "labels": [
+            "Iron Sword"
+        ],
+        "properties": {
+            "name": "iron_sword"
+        }
+    },
+    {
+        "id": 715,
+        "labels": [
+            "Iron Shovel"
+        ],
+        "properties": {
+            "name": "iron_shovel"
+        }
+    },
+    {
+        "id": 716,
+        "labels": [
+            "Iron Pickaxe"
+        ],
+        "properties": {
+            "name": "iron_pickaxe"
+        }
+    },
+    {
+        "id": 717,
+        "labels": [
+            "Iron Axe"
+        ],
+        "properties": {
+            "name": "iron_axe"
+        }
+    },
+    {
+        "id": 718,
+        "labels": [
+            "Iron Hoe"
+        ],
+        "properties": {
+            "name": "iron_hoe"
+        }
+    },
+    {
+        "id": 719,
+        "labels": [
+            "Diamond Sword"
+        ],
+        "properties": {
+            "name": "diamond_sword"
+        }
+    },
+    {
+        "id": 720,
+        "labels": [
+            "Diamond Shovel"
+        ],
+        "properties": {
+            "name": "diamond_shovel"
+        }
+    },
+    {
+        "id": 721,
+        "labels": [
+            "Diamond Pickaxe"
+        ],
+        "properties": {
+            "name": "diamond_pickaxe"
+        }
+    },
+    {
+        "id": 722,
+        "labels": [
+            "Diamond Axe"
+        ],
+        "properties": {
+            "name": "diamond_axe"
+        }
+    },
+    {
+        "id": 723,
+        "labels": [
+            "Diamond Hoe"
+        ],
+        "properties": {
+            "name": "diamond_hoe"
+        }
+    },
+    {
+        "id": 724,
+        "labels": [
+            "Netherite Sword"
+        ],
+        "properties": {
+            "name": "netherite_sword"
+        }
+    },
+    {
+        "id": 725,
+        "labels": [
+            "Netherite Shovel"
+        ],
+        "properties": {
+            "name": "netherite_shovel"
+        }
+    },
+    {
+        "id": 726,
+        "labels": [
+            "Netherite Pickaxe"
+        ],
+        "properties": {
+            "name": "netherite_pickaxe"
+        }
+    },
+    {
+        "id": 727,
+        "labels": [
+            "Netherite Axe"
+        ],
+        "properties": {
+            "name": "netherite_axe"
+        }
+    },
+    {
+        "id": 728,
+        "labels": [
+            "Netherite Hoe"
+        ],
+        "properties": {
+            "name": "netherite_hoe"
+        }
+    },
+    {
+        "id": 729,
+        "labels": [
+            "Stick"
+        ],
+        "properties": {
+            "name": "stick"
+        }
+    },
+    {
+        "id": 730,
+        "labels": [
+            "Bowl"
+        ],
+        "properties": {
+            "name": "bowl"
+        }
+    },
+    {
+        "id": 731,
+        "labels": [
+            "Mushroom Stew"
+        ],
+        "properties": {
+            "name": "mushroom_stew"
+        }
+    },
+    {
+        "id": 732,
+        "labels": [
+            "String"
+        ],
+        "properties": {
+            "name": "string"
+        }
+    },
+    {
+        "id": 733,
+        "labels": [
+            "Feather"
+        ],
+        "properties": {
+            "name": "feather"
+        }
+    },
+    {
+        "id": 734,
+        "labels": [
+            "Gunpowder"
+        ],
+        "properties": {
+            "name": "gunpowder"
+        }
+    },
+    {
+        "id": 735,
+        "labels": [
+            "Wheat Seeds"
+        ],
+        "properties": {
+            "name": "wheat_seeds"
+        }
+    },
+    {
+        "id": 736,
+        "labels": [
+            "Wheat"
+        ],
+        "properties": {
+            "name": "wheat"
+        }
+    },
+    {
+        "id": 737,
+        "labels": [
+            "Bread"
+        ],
+        "properties": {
+            "name": "bread"
+        }
+    },
+    {
+        "id": 738,
+        "labels": [
+            "Leather Cap"
+        ],
+        "properties": {
+            "name": "leather_helmet"
+        }
+    },
+    {
+        "id": 739,
+        "labels": [
+            "Leather Tunic"
+        ],
+        "properties": {
+            "name": "leather_chestplate"
+        }
+    },
+    {
+        "id": 740,
+        "labels": [
+            "Leather Pants"
+        ],
+        "properties": {
+            "name": "leather_leggings"
+        }
+    },
+    {
+        "id": 741,
+        "labels": [
+            "Leather Boots"
+        ],
+        "properties": {
+            "name": "leather_boots"
+        }
+    },
+    {
+        "id": 742,
+        "labels": [
+            "Chainmail Helmet"
+        ],
+        "properties": {
+            "name": "chainmail_helmet"
+        }
+    },
+    {
+        "id": 743,
+        "labels": [
+            "Chainmail Chestplate"
+        ],
+        "properties": {
+            "name": "chainmail_chestplate"
+        }
+    },
+    {
+        "id": 744,
+        "labels": [
+            "Chainmail Leggings"
+        ],
+        "properties": {
+            "name": "chainmail_leggings"
+        }
+    },
+    {
+        "id": 745,
+        "labels": [
+            "Chainmail Boots"
+        ],
+        "properties": {
+            "name": "chainmail_boots"
+        }
+    },
+    {
+        "id": 746,
+        "labels": [
+            "Iron Helmet"
+        ],
+        "properties": {
+            "name": "iron_helmet"
+        }
+    },
+    {
+        "id": 747,
+        "labels": [
+            "Iron Chestplate"
+        ],
+        "properties": {
+            "name": "iron_chestplate"
+        }
+    },
+    {
+        "id": 748,
+        "labels": [
+            "Iron Leggings"
+        ],
+        "properties": {
+            "name": "iron_leggings"
+        }
+    },
+    {
+        "id": 749,
+        "labels": [
+            "Iron Boots"
+        ],
+        "properties": {
+            "name": "iron_boots"
+        }
+    },
+    {
+        "id": 750,
+        "labels": [
+            "Diamond Helmet"
+        ],
+        "properties": {
+            "name": "diamond_helmet"
+        }
+    },
+    {
+        "id": 751,
+        "labels": [
+            "Diamond Chestplate"
+        ],
+        "properties": {
+            "name": "diamond_chestplate"
+        }
+    },
+    {
+        "id": 752,
+        "labels": [
+            "Diamond Leggings"
+        ],
+        "properties": {
+            "name": "diamond_leggings"
+        }
+    },
+    {
+        "id": 753,
+        "labels": [
+            "Diamond Boots"
+        ],
+        "properties": {
+            "name": "diamond_boots"
+        }
+    },
+    {
+        "id": 754,
+        "labels": [
+            "Golden Helmet"
+        ],
+        "properties": {
+            "name": "golden_helmet"
+        }
+    },
+    {
+        "id": 755,
+        "labels": [
+            "Golden Chestplate"
+        ],
+        "properties": {
+            "name": "golden_chestplate"
+        }
+    },
+    {
+        "id": 756,
+        "labels": [
+            "Golden Leggings"
+        ],
+        "properties": {
+            "name": "golden_leggings"
+        }
+    },
+    {
+        "id": 757,
+        "labels": [
+            "Golden Boots"
+        ],
+        "properties": {
+            "name": "golden_boots"
+        }
+    },
+    {
+        "id": 758,
+        "labels": [
+            "Netherite Helmet"
+        ],
+        "properties": {
+            "name": "netherite_helmet"
+        }
+    },
+    {
+        "id": 759,
+        "labels": [
+            "Netherite Chestplate"
+        ],
+        "properties": {
+            "name": "netherite_chestplate"
+        }
+    },
+    {
+        "id": 760,
+        "labels": [
+            "Netherite Leggings"
+        ],
+        "properties": {
+            "name": "netherite_leggings"
+        }
+    },
+    {
+        "id": 761,
+        "labels": [
+            "Netherite Boots"
+        ],
+        "properties": {
+            "name": "netherite_boots"
+        }
+    },
+    {
+        "id": 762,
+        "labels": [
+            "Flint"
+        ],
+        "properties": {
+            "name": "flint"
+        }
+    },
+    {
+        "id": 763,
+        "labels": [
+            "Raw Porkchop"
+        ],
+        "properties": {
+            "name": "porkchop"
+        }
+    },
+    {
+        "id": 764,
+        "labels": [
+            "Cooked Porkchop"
+        ],
+        "properties": {
+            "name": "cooked_porkchop"
+        }
+    },
+    {
+        "id": 765,
+        "labels": [
+            "Painting"
+        ],
+        "properties": {
+            "name": "painting"
+        }
+    },
+    {
+        "id": 766,
+        "labels": [
+            "Golden Apple"
+        ],
+        "properties": {
+            "name": "golden_apple"
+        }
+    },
+    {
+        "id": 767,
+        "labels": [
+            "Enchanted Golden Apple"
+        ],
+        "properties": {
+            "name": "enchanted_golden_apple"
+        }
+    },
+    {
+        "id": 768,
+        "labels": [
+            "Oak Sign"
+        ],
+        "properties": {
+            "name": "oak_sign"
+        }
+    },
+    {
+        "id": 769,
+        "labels": [
+            "Spruce Sign"
+        ],
+        "properties": {
+            "name": "spruce_sign"
+        }
+    },
+    {
+        "id": 770,
+        "labels": [
+            "Birch Sign"
+        ],
+        "properties": {
+            "name": "birch_sign"
+        }
+    },
+    {
+        "id": 771,
+        "labels": [
+            "Jungle Sign"
+        ],
+        "properties": {
+            "name": "jungle_sign"
+        }
+    },
+    {
+        "id": 772,
+        "labels": [
+            "Acacia Sign"
+        ],
+        "properties": {
+            "name": "acacia_sign"
+        }
+    },
+    {
+        "id": 773,
+        "labels": [
+            "Dark Oak Sign"
+        ],
+        "properties": {
+            "name": "dark_oak_sign"
+        }
+    },
+    {
+        "id": 774,
+        "labels": [
+            "Crimson Sign"
+        ],
+        "properties": {
+            "name": "crimson_sign"
+        }
+    },
+    {
+        "id": 775,
+        "labels": [
+            "Warped Sign"
+        ],
+        "properties": {
+            "name": "warped_sign"
+        }
+    },
+    {
+        "id": 776,
+        "labels": [
+            "Bucket"
+        ],
+        "properties": {
+            "name": "bucket"
+        }
+    },
+    {
+        "id": 777,
+        "labels": [
+            "Water Bucket"
+        ],
+        "properties": {
+            "name": "water_bucket"
+        }
+    },
+    {
+        "id": 778,
+        "labels": [
+            "Lava Bucket"
+        ],
+        "properties": {
+            "name": "lava_bucket"
+        }
+    },
+    {
+        "id": 779,
+        "labels": [
+            "Powder Snow Bucket"
+        ],
+        "properties": {
+            "name": "powder_snow_bucket"
+        }
+    },
+    {
+        "id": 780,
+        "labels": [
+            "Snowball"
+        ],
+        "properties": {
+            "name": "snowball"
+        }
+    },
+    {
+        "id": 781,
+        "labels": [
+            "Leather"
+        ],
+        "properties": {
+            "name": "leather"
+        }
+    },
+    {
+        "id": 782,
+        "labels": [
+            "Milk Bucket"
+        ],
+        "properties": {
+            "name": "milk_bucket"
+        }
+    },
+    {
+        "id": 783,
+        "labels": [
+            "Bucket of Pufferfish"
+        ],
+        "properties": {
+            "name": "pufferfish_bucket"
+        }
+    },
+    {
+        "id": 784,
+        "labels": [
+            "Bucket of Salmon"
+        ],
+        "properties": {
+            "name": "salmon_bucket"
+        }
+    },
+    {
+        "id": 785,
+        "labels": [
+            "Bucket of Cod"
+        ],
+        "properties": {
+            "name": "cod_bucket"
+        }
+    },
+    {
+        "id": 786,
+        "labels": [
+            "Bucket of Tropical Fish"
+        ],
+        "properties": {
+            "name": "tropical_fish_bucket"
+        }
+    },
+    {
+        "id": 787,
+        "labels": [
+            "Bucket of Axolotl"
+        ],
+        "properties": {
+            "name": "axolotl_bucket"
+        }
+    },
+    {
+        "id": 788,
+        "labels": [
+            "Brick"
+        ],
+        "properties": {
+            "name": "brick"
+        }
+    },
+    {
+        "id": 789,
+        "labels": [
+            "Clay Ball"
+        ],
+        "properties": {
+            "name": "clay_ball"
+        }
+    },
+    {
+        "id": 790,
+        "labels": [
+            "Dried Kelp Block"
+        ],
+        "properties": {
+            "name": "dried_kelp_block"
+        }
+    },
+    {
+        "id": 791,
+        "labels": [
+            "Paper"
+        ],
+        "properties": {
+            "name": "paper"
+        }
+    },
+    {
+        "id": 792,
+        "labels": [
+            "Book"
+        ],
+        "properties": {
+            "name": "book"
+        }
+    },
+    {
+        "id": 793,
+        "labels": [
+            "Slimeball"
+        ],
+        "properties": {
+            "name": "slime_ball"
+        }
+    },
+    {
+        "id": 794,
+        "labels": [
+            "Egg"
+        ],
+        "properties": {
+            "name": "egg"
+        }
+    },
+    {
+        "id": 795,
+        "labels": [
+            "Compass"
+        ],
+        "properties": {
+            "name": "compass"
+        }
+    },
+    {
+        "id": 796,
+        "labels": [
+            "Bundle"
+        ],
+        "properties": {
+            "name": "bundle"
+        }
+    },
+    {
+        "id": 797,
+        "labels": [
+            "Fishing Rod"
+        ],
+        "properties": {
+            "name": "fishing_rod"
+        }
+    },
+    {
+        "id": 798,
+        "labels": [
+            "Clock"
+        ],
+        "properties": {
+            "name": "clock"
+        }
+    },
+    {
+        "id": 799,
+        "labels": [
+            "Spyglass"
+        ],
+        "properties": {
+            "name": "spyglass"
+        }
+    },
+    {
+        "id": 800,
+        "labels": [
+            "Glowstone Dust"
+        ],
+        "properties": {
+            "name": "glowstone_dust"
+        }
+    },
+    {
+        "id": 801,
+        "labels": [
+            "Raw Cod"
+        ],
+        "properties": {
+            "name": "cod"
+        }
+    },
+    {
+        "id": 802,
+        "labels": [
+            "Raw Salmon"
+        ],
+        "properties": {
+            "name": "salmon"
+        }
+    },
+    {
+        "id": 803,
+        "labels": [
+            "Tropical Fish"
+        ],
+        "properties": {
+            "name": "tropical_fish"
+        }
+    },
+    {
+        "id": 804,
+        "labels": [
+            "Pufferfish"
+        ],
+        "properties": {
+            "name": "pufferfish"
+        }
+    },
+    {
+        "id": 805,
+        "labels": [
+            "Cooked Cod"
+        ],
+        "properties": {
+            "name": "cooked_cod"
+        }
+    },
+    {
+        "id": 806,
+        "labels": [
+            "Cooked Salmon"
+        ],
+        "properties": {
+            "name": "cooked_salmon"
+        }
+    },
+    {
+        "id": 807,
+        "labels": [
+            "Ink Sac"
+        ],
+        "properties": {
+            "name": "ink_sac"
+        }
+    },
+    {
+        "id": 808,
+        "labels": [
+            "Glow Ink Sac"
+        ],
+        "properties": {
+            "name": "glow_ink_sac"
+        }
+    },
+    {
+        "id": 809,
+        "labels": [
+            "Cocoa Beans"
+        ],
+        "properties": {
+            "name": "cocoa_beans"
+        }
+    },
+    {
+        "id": 810,
+        "labels": [
+            "White Dye"
+        ],
+        "properties": {
+            "name": "white_dye"
+        }
+    },
+    {
+        "id": 811,
+        "labels": [
+            "Orange Dye"
+        ],
+        "properties": {
+            "name": "orange_dye"
+        }
+    },
+    {
+        "id": 812,
+        "labels": [
+            "Magenta Dye"
+        ],
+        "properties": {
+            "name": "magenta_dye"
+        }
+    },
+    {
+        "id": 813,
+        "labels": [
+            "Light Blue Dye"
+        ],
+        "properties": {
+            "name": "light_blue_dye"
+        }
+    },
+    {
+        "id": 814,
+        "labels": [
+            "Yellow Dye"
+        ],
+        "properties": {
+            "name": "yellow_dye"
+        }
+    },
+    {
+        "id": 815,
+        "labels": [
+            "Lime Dye"
+        ],
+        "properties": {
+            "name": "lime_dye"
+        }
+    },
+    {
+        "id": 816,
+        "labels": [
+            "Pink Dye"
+        ],
+        "properties": {
+            "name": "pink_dye"
+        }
+    },
+    {
+        "id": 817,
+        "labels": [
+            "Gray Dye"
+        ],
+        "properties": {
+            "name": "gray_dye"
+        }
+    },
+    {
+        "id": 818,
+        "labels": [
+            "Light Gray Dye"
+        ],
+        "properties": {
+            "name": "light_gray_dye"
+        }
+    },
+    {
+        "id": 819,
+        "labels": [
+            "Cyan Dye"
+        ],
+        "properties": {
+            "name": "cyan_dye"
+        }
+    },
+    {
+        "id": 820,
+        "labels": [
+            "Purple Dye"
+        ],
+        "properties": {
+            "name": "purple_dye"
+        }
+    },
+    {
+        "id": 821,
+        "labels": [
+            "Blue Dye"
+        ],
+        "properties": {
+            "name": "blue_dye"
+        }
+    },
+    {
+        "id": 822,
+        "labels": [
+            "Brown Dye"
+        ],
+        "properties": {
+            "name": "brown_dye"
+        }
+    },
+    {
+        "id": 823,
+        "labels": [
+            "Green Dye"
+        ],
+        "properties": {
+            "name": "green_dye"
+        }
+    },
+    {
+        "id": 824,
+        "labels": [
+            "Red Dye"
+        ],
+        "properties": {
+            "name": "red_dye"
+        }
+    },
+    {
+        "id": 825,
+        "labels": [
+            "Black Dye"
+        ],
+        "properties": {
+            "name": "black_dye"
+        }
+    },
+    {
+        "id": 826,
+        "labels": [
+            "Bone Meal"
+        ],
+        "properties": {
+            "name": "bone_meal"
+        }
+    },
+    {
+        "id": 827,
+        "labels": [
+            "Bone"
+        ],
+        "properties": {
+            "name": "bone"
+        }
+    },
+    {
+        "id": 828,
+        "labels": [
+            "Sugar"
+        ],
+        "properties": {
+            "name": "sugar"
+        }
+    },
+    {
+        "id": 829,
+        "labels": [
+            "Cake"
+        ],
+        "properties": {
+            "name": "cake"
+        }
+    },
+    {
+        "id": 830,
+        "labels": [
+            "White Bed"
+        ],
+        "properties": {
+            "name": "white_bed"
+        }
+    },
+    {
+        "id": 831,
+        "labels": [
+            "Orange Bed"
+        ],
+        "properties": {
+            "name": "orange_bed"
+        }
+    },
+    {
+        "id": 832,
+        "labels": [
+            "Magenta Bed"
+        ],
+        "properties": {
+            "name": "magenta_bed"
+        }
+    },
+    {
+        "id": 833,
+        "labels": [
+            "Light Blue Bed"
+        ],
+        "properties": {
+            "name": "light_blue_bed"
+        }
+    },
+    {
+        "id": 834,
+        "labels": [
+            "Yellow Bed"
+        ],
+        "properties": {
+            "name": "yellow_bed"
+        }
+    },
+    {
+        "id": 835,
+        "labels": [
+            "Lime Bed"
+        ],
+        "properties": {
+            "name": "lime_bed"
+        }
+    },
+    {
+        "id": 836,
+        "labels": [
+            "Pink Bed"
+        ],
+        "properties": {
+            "name": "pink_bed"
+        }
+    },
+    {
+        "id": 837,
+        "labels": [
+            "Gray Bed"
+        ],
+        "properties": {
+            "name": "gray_bed"
+        }
+    },
+    {
+        "id": 838,
+        "labels": [
+            "Light Gray Bed"
+        ],
+        "properties": {
+            "name": "light_gray_bed"
+        }
+    },
+    {
+        "id": 839,
+        "labels": [
+            "Cyan Bed"
+        ],
+        "properties": {
+            "name": "cyan_bed"
+        }
+    },
+    {
+        "id": 840,
+        "labels": [
+            "Purple Bed"
+        ],
+        "properties": {
+            "name": "purple_bed"
+        }
+    },
+    {
+        "id": 841,
+        "labels": [
+            "Blue Bed"
+        ],
+        "properties": {
+            "name": "blue_bed"
+        }
+    },
+    {
+        "id": 842,
+        "labels": [
+            "Brown Bed"
+        ],
+        "properties": {
+            "name": "brown_bed"
+        }
+    },
+    {
+        "id": 843,
+        "labels": [
+            "Green Bed"
+        ],
+        "properties": {
+            "name": "green_bed"
+        }
+    },
+    {
+        "id": 844,
+        "labels": [
+            "Red Bed"
+        ],
+        "properties": {
+            "name": "red_bed"
+        }
+    },
+    {
+        "id": 845,
+        "labels": [
+            "Black Bed"
+        ],
+        "properties": {
+            "name": "black_bed"
+        }
+    },
+    {
+        "id": 846,
+        "labels": [
+            "Cookie"
+        ],
+        "properties": {
+            "name": "cookie"
+        }
+    },
+    {
+        "id": 847,
+        "labels": [
+            "Map"
+        ],
+        "properties": {
+            "name": "filled_map"
+        }
+    },
+    {
+        "id": 848,
+        "labels": [
+            "Shears"
+        ],
+        "properties": {
+            "name": "shears"
+        }
+    },
+    {
+        "id": 849,
+        "labels": [
+            "Melon Slice"
+        ],
+        "properties": {
+            "name": "melon_slice"
+        }
+    },
+    {
+        "id": 850,
+        "labels": [
+            "Dried Kelp"
+        ],
+        "properties": {
+            "name": "dried_kelp"
+        }
+    },
+    {
+        "id": 851,
+        "labels": [
+            "Pumpkin Seeds"
+        ],
+        "properties": {
+            "name": "pumpkin_seeds"
+        }
+    },
+    {
+        "id": 852,
+        "labels": [
+            "Melon Seeds"
+        ],
+        "properties": {
+            "name": "melon_seeds"
+        }
+    },
+    {
+        "id": 853,
+        "labels": [
+            "Raw Beef"
+        ],
+        "properties": {
+            "name": "beef"
+        }
+    },
+    {
+        "id": 854,
+        "labels": [
+            "Steak"
+        ],
+        "properties": {
+            "name": "cooked_beef"
+        }
+    },
+    {
+        "id": 855,
+        "labels": [
+            "Raw Chicken"
+        ],
+        "properties": {
+            "name": "chicken"
+        }
+    },
+    {
+        "id": 856,
+        "labels": [
+            "Cooked Chicken"
+        ],
+        "properties": {
+            "name": "cooked_chicken"
+        }
+    },
+    {
+        "id": 857,
+        "labels": [
+            "Rotten Flesh"
+        ],
+        "properties": {
+            "name": "rotten_flesh"
+        }
+    },
+    {
+        "id": 858,
+        "labels": [
+            "Ender Pearl"
+        ],
+        "properties": {
+            "name": "ender_pearl"
+        }
+    },
+    {
+        "id": 859,
+        "labels": [
+            "Blaze Rod"
+        ],
+        "properties": {
+            "name": "blaze_rod"
+        }
+    },
+    {
+        "id": 860,
+        "labels": [
+            "Ghast Tear"
+        ],
+        "properties": {
+            "name": "ghast_tear"
+        }
+    },
+    {
+        "id": 861,
+        "labels": [
+            "Gold Nugget"
+        ],
+        "properties": {
+            "name": "gold_nugget"
+        }
+    },
+    {
+        "id": 862,
+        "labels": [
+            "Nether Wart"
+        ],
+        "properties": {
+            "name": "nether_wart"
+        }
+    },
+    {
+        "id": 863,
+        "labels": [
+            "Potion"
+        ],
+        "properties": {
+            "name": "potion"
+        }
+    },
+    {
+        "id": 864,
+        "labels": [
+            "Glass Bottle"
+        ],
+        "properties": {
+            "name": "glass_bottle"
+        }
+    },
+    {
+        "id": 865,
+        "labels": [
+            "Spider Eye"
+        ],
+        "properties": {
+            "name": "spider_eye"
+        }
+    },
+    {
+        "id": 866,
+        "labels": [
+            "Fermented Spider Eye"
+        ],
+        "properties": {
+            "name": "fermented_spider_eye"
+        }
+    },
+    {
+        "id": 867,
+        "labels": [
+            "Blaze Powder"
+        ],
+        "properties": {
+            "name": "blaze_powder"
+        }
+    },
+    {
+        "id": 868,
+        "labels": [
+            "Magma Cream"
+        ],
+        "properties": {
+            "name": "magma_cream"
+        }
+    },
+    {
+        "id": 869,
+        "labels": [
+            "Brewing Stand"
+        ],
+        "properties": {
+            "name": "brewing_stand"
+        }
+    },
+    {
+        "id": 870,
+        "labels": [
+            "Cauldron"
+        ],
+        "properties": {
+            "name": "cauldron"
+        }
+    },
+    {
+        "id": 871,
+        "labels": [
+            "Eye of Ender"
+        ],
+        "properties": {
+            "name": "ender_eye"
+        }
+    },
+    {
+        "id": 872,
+        "labels": [
+            "Glistering Melon Slice"
+        ],
+        "properties": {
+            "name": "glistering_melon_slice"
+        }
+    },
+    {
+        "id": 873,
+        "labels": [
+            "Axolotl Spawn Egg"
+        ],
+        "properties": {
+            "name": "axolotl_spawn_egg"
+        }
+    },
+    {
+        "id": 874,
+        "labels": [
+            "Bat Spawn Egg"
+        ],
+        "properties": {
+            "name": "bat_spawn_egg"
+        }
+    },
+    {
+        "id": 875,
+        "labels": [
+            "Bee Spawn Egg"
+        ],
+        "properties": {
+            "name": "bee_spawn_egg"
+        }
+    },
+    {
+        "id": 876,
+        "labels": [
+            "Blaze Spawn Egg"
+        ],
+        "properties": {
+            "name": "blaze_spawn_egg"
+        }
+    },
+    {
+        "id": 877,
+        "labels": [
+            "Cat Spawn Egg"
+        ],
+        "properties": {
+            "name": "cat_spawn_egg"
+        }
+    },
+    {
+        "id": 878,
+        "labels": [
+            "Cave Spider Spawn Egg"
+        ],
+        "properties": {
+            "name": "cave_spider_spawn_egg"
+        }
+    },
+    {
+        "id": 879,
+        "labels": [
+            "Chicken Spawn Egg"
+        ],
+        "properties": {
+            "name": "chicken_spawn_egg"
+        }
+    },
+    {
+        "id": 880,
+        "labels": [
+            "Cod Spawn Egg"
+        ],
+        "properties": {
+            "name": "cod_spawn_egg"
+        }
+    },
+    {
+        "id": 881,
+        "labels": [
+            "Cow Spawn Egg"
+        ],
+        "properties": {
+            "name": "cow_spawn_egg"
+        }
+    },
+    {
+        "id": 882,
+        "labels": [
+            "Creeper Spawn Egg"
+        ],
+        "properties": {
+            "name": "creeper_spawn_egg"
+        }
+    },
+    {
+        "id": 883,
+        "labels": [
+            "Dolphin Spawn Egg"
+        ],
+        "properties": {
+            "name": "dolphin_spawn_egg"
+        }
+    },
+    {
+        "id": 884,
+        "labels": [
+            "Donkey Spawn Egg"
+        ],
+        "properties": {
+            "name": "donkey_spawn_egg"
+        }
+    },
+    {
+        "id": 885,
+        "labels": [
+            "Drowned Spawn Egg"
+        ],
+        "properties": {
+            "name": "drowned_spawn_egg"
+        }
+    },
+    {
+        "id": 886,
+        "labels": [
+            "Elder Guardian Spawn Egg"
+        ],
+        "properties": {
+            "name": "elder_guardian_spawn_egg"
+        }
+    },
+    {
+        "id": 887,
+        "labels": [
+            "Enderman Spawn Egg"
+        ],
+        "properties": {
+            "name": "enderman_spawn_egg"
+        }
+    },
+    {
+        "id": 888,
+        "labels": [
+            "Endermite Spawn Egg"
+        ],
+        "properties": {
+            "name": "endermite_spawn_egg"
+        }
+    },
+    {
+        "id": 889,
+        "labels": [
+            "Evoker Spawn Egg"
+        ],
+        "properties": {
+            "name": "evoker_spawn_egg"
+        }
+    },
+    {
+        "id": 890,
+        "labels": [
+            "Fox Spawn Egg"
+        ],
+        "properties": {
+            "name": "fox_spawn_egg"
+        }
+    },
+    {
+        "id": 891,
+        "labels": [
+            "Ghast Spawn Egg"
+        ],
+        "properties": {
+            "name": "ghast_spawn_egg"
+        }
+    },
+    {
+        "id": 892,
+        "labels": [
+            "Glow Squid Spawn Egg"
+        ],
+        "properties": {
+            "name": "glow_squid_spawn_egg"
+        }
+    },
+    {
+        "id": 893,
+        "labels": [
+            "Goat Spawn Egg"
+        ],
+        "properties": {
+            "name": "goat_spawn_egg"
+        }
+    },
+    {
+        "id": 894,
+        "labels": [
+            "Guardian Spawn Egg"
+        ],
+        "properties": {
+            "name": "guardian_spawn_egg"
+        }
+    },
+    {
+        "id": 895,
+        "labels": [
+            "Hoglin Spawn Egg"
+        ],
+        "properties": {
+            "name": "hoglin_spawn_egg"
+        }
+    },
+    {
+        "id": 896,
+        "labels": [
+            "Horse Spawn Egg"
+        ],
+        "properties": {
+            "name": "horse_spawn_egg"
+        }
+    },
+    {
+        "id": 897,
+        "labels": [
+            "Husk Spawn Egg"
+        ],
+        "properties": {
+            "name": "husk_spawn_egg"
+        }
+    },
+    {
+        "id": 898,
+        "labels": [
+            "Llama Spawn Egg"
+        ],
+        "properties": {
+            "name": "llama_spawn_egg"
+        }
+    },
+    {
+        "id": 899,
+        "labels": [
+            "Magma Cube Spawn Egg"
+        ],
+        "properties": {
+            "name": "magma_cube_spawn_egg"
+        }
+    },
+    {
+        "id": 900,
+        "labels": [
+            "Mooshroom Spawn Egg"
+        ],
+        "properties": {
+            "name": "mooshroom_spawn_egg"
+        }
+    },
+    {
+        "id": 901,
+        "labels": [
+            "Mule Spawn Egg"
+        ],
+        "properties": {
+            "name": "mule_spawn_egg"
+        }
+    },
+    {
+        "id": 902,
+        "labels": [
+            "Ocelot Spawn Egg"
+        ],
+        "properties": {
+            "name": "ocelot_spawn_egg"
+        }
+    },
+    {
+        "id": 903,
+        "labels": [
+            "Panda Spawn Egg"
+        ],
+        "properties": {
+            "name": "panda_spawn_egg"
+        }
+    },
+    {
+        "id": 904,
+        "labels": [
+            "Parrot Spawn Egg"
+        ],
+        "properties": {
+            "name": "parrot_spawn_egg"
+        }
+    },
+    {
+        "id": 905,
+        "labels": [
+            "Phantom Spawn Egg"
+        ],
+        "properties": {
+            "name": "phantom_spawn_egg"
+        }
+    },
+    {
+        "id": 906,
+        "labels": [
+            "Pig Spawn Egg"
+        ],
+        "properties": {
+            "name": "pig_spawn_egg"
+        }
+    },
+    {
+        "id": 907,
+        "labels": [
+            "Piglin Spawn Egg"
+        ],
+        "properties": {
+            "name": "piglin_spawn_egg"
+        }
+    },
+    {
+        "id": 908,
+        "labels": [
+            "Piglin Brute Spawn Egg"
+        ],
+        "properties": {
+            "name": "piglin_brute_spawn_egg"
+        }
+    },
+    {
+        "id": 909,
+        "labels": [
+            "Pillager Spawn Egg"
+        ],
+        "properties": {
+            "name": "pillager_spawn_egg"
+        }
+    },
+    {
+        "id": 910,
+        "labels": [
+            "Polar Bear Spawn Egg"
+        ],
+        "properties": {
+            "name": "polar_bear_spawn_egg"
+        }
+    },
+    {
+        "id": 911,
+        "labels": [
+            "Pufferfish Spawn Egg"
+        ],
+        "properties": {
+            "name": "pufferfish_spawn_egg"
+        }
+    },
+    {
+        "id": 912,
+        "labels": [
+            "Rabbit Spawn Egg"
+        ],
+        "properties": {
+            "name": "rabbit_spawn_egg"
+        }
+    },
+    {
+        "id": 913,
+        "labels": [
+            "Ravager Spawn Egg"
+        ],
+        "properties": {
+            "name": "ravager_spawn_egg"
+        }
+    },
+    {
+        "id": 914,
+        "labels": [
+            "Salmon Spawn Egg"
+        ],
+        "properties": {
+            "name": "salmon_spawn_egg"
+        }
+    },
+    {
+        "id": 915,
+        "labels": [
+            "Sheep Spawn Egg"
+        ],
+        "properties": {
+            "name": "sheep_spawn_egg"
+        }
+    },
+    {
+        "id": 916,
+        "labels": [
+            "Shulker Spawn Egg"
+        ],
+        "properties": {
+            "name": "shulker_spawn_egg"
+        }
+    },
+    {
+        "id": 917,
+        "labels": [
+            "Silverfish Spawn Egg"
+        ],
+        "properties": {
+            "name": "silverfish_spawn_egg"
+        }
+    },
+    {
+        "id": 918,
+        "labels": [
+            "Skeleton Spawn Egg"
+        ],
+        "properties": {
+            "name": "skeleton_spawn_egg"
+        }
+    },
+    {
+        "id": 919,
+        "labels": [
+            "Skeleton Horse Spawn Egg"
+        ],
+        "properties": {
+            "name": "skeleton_horse_spawn_egg"
+        }
+    },
+    {
+        "id": 920,
+        "labels": [
+            "Slime Spawn Egg"
+        ],
+        "properties": {
+            "name": "slime_spawn_egg"
+        }
+    },
+    {
+        "id": 921,
+        "labels": [
+            "Spider Spawn Egg"
+        ],
+        "properties": {
+            "name": "spider_spawn_egg"
+        }
+    },
+    {
+        "id": 922,
+        "labels": [
+            "Squid Spawn Egg"
+        ],
+        "properties": {
+            "name": "squid_spawn_egg"
+        }
+    },
+    {
+        "id": 923,
+        "labels": [
+            "Stray Spawn Egg"
+        ],
+        "properties": {
+            "name": "stray_spawn_egg"
+        }
+    },
+    {
+        "id": 924,
+        "labels": [
+            "Strider Spawn Egg"
+        ],
+        "properties": {
+            "name": "strider_spawn_egg"
+        }
+    },
+    {
+        "id": 925,
+        "labels": [
+            "Trader Llama Spawn Egg"
+        ],
+        "properties": {
+            "name": "trader_llama_spawn_egg"
+        }
+    },
+    {
+        "id": 926,
+        "labels": [
+            "Tropical Fish Spawn Egg"
+        ],
+        "properties": {
+            "name": "tropical_fish_spawn_egg"
+        }
+    },
+    {
+        "id": 927,
+        "labels": [
+            "Turtle Spawn Egg"
+        ],
+        "properties": {
+            "name": "turtle_spawn_egg"
+        }
+    },
+    {
+        "id": 928,
+        "labels": [
+            "Vex Spawn Egg"
+        ],
+        "properties": {
+            "name": "vex_spawn_egg"
+        }
+    },
+    {
+        "id": 929,
+        "labels": [
+            "Villager Spawn Egg"
+        ],
+        "properties": {
+            "name": "villager_spawn_egg"
+        }
+    },
+    {
+        "id": 930,
+        "labels": [
+            "Vindicator Spawn Egg"
+        ],
+        "properties": {
+            "name": "vindicator_spawn_egg"
+        }
+    },
+    {
+        "id": 931,
+        "labels": [
+            "Wandering Trader Spawn Egg"
+        ],
+        "properties": {
+            "name": "wandering_trader_spawn_egg"
+        }
+    },
+    {
+        "id": 932,
+        "labels": [
+            "Witch Spawn Egg"
+        ],
+        "properties": {
+            "name": "witch_spawn_egg"
+        }
+    },
+    {
+        "id": 933,
+        "labels": [
+            "Wither Skeleton Spawn Egg"
+        ],
+        "properties": {
+            "name": "wither_skeleton_spawn_egg"
+        }
+    },
+    {
+        "id": 934,
+        "labels": [
+            "Wolf Spawn Egg"
+        ],
+        "properties": {
+            "name": "wolf_spawn_egg"
+        }
+    },
+    {
+        "id": 935,
+        "labels": [
+            "Zoglin Spawn Egg"
+        ],
+        "properties": {
+            "name": "zoglin_spawn_egg"
+        }
+    },
+    {
+        "id": 936,
+        "labels": [
+            "Zombie Spawn Egg"
+        ],
+        "properties": {
+            "name": "zombie_spawn_egg"
+        }
+    },
+    {
+        "id": 937,
+        "labels": [
+            "Zombie Horse Spawn Egg"
+        ],
+        "properties": {
+            "name": "zombie_horse_spawn_egg"
+        }
+    },
+    {
+        "id": 938,
+        "labels": [
+            "Zombie Villager Spawn Egg"
+        ],
+        "properties": {
+            "name": "zombie_villager_spawn_egg"
+        }
+    },
+    {
+        "id": 939,
+        "labels": [
+            "Zombified Piglin Spawn Egg"
+        ],
+        "properties": {
+            "name": "zombified_piglin_spawn_egg"
+        }
+    },
+    {
+        "id": 940,
+        "labels": [
+            "Bottle o' Enchanting"
+        ],
+        "properties": {
+            "name": "experience_bottle"
+        }
+    },
+    {
+        "id": 941,
+        "labels": [
+            "Fire Charge"
+        ],
+        "properties": {
+            "name": "fire_charge"
+        }
+    },
+    {
+        "id": 942,
+        "labels": [
+            "Book and Quill"
+        ],
+        "properties": {
+            "name": "writable_book"
+        }
+    },
+    {
+        "id": 943,
+        "labels": [
+            "Written Book"
+        ],
+        "properties": {
+            "name": "written_book"
+        }
+    },
+    {
+        "id": 944,
+        "labels": [
+            "Item Frame"
+        ],
+        "properties": {
+            "name": "item_frame"
+        }
+    },
+    {
+        "id": 945,
+        "labels": [
+            "Glow Item Frame"
+        ],
+        "properties": {
+            "name": "glow_item_frame"
+        }
+    },
+    {
+        "id": 946,
+        "labels": [
+            "Flower Pot"
+        ],
+        "properties": {
+            "name": "flower_pot"
+        }
+    },
+    {
+        "id": 947,
+        "labels": [
+            "Carrot"
+        ],
+        "properties": {
+            "name": "carrot"
+        }
+    },
+    {
+        "id": 948,
+        "labels": [
+            "Potato"
+        ],
+        "properties": {
+            "name": "potato"
+        }
+    },
+    {
+        "id": 949,
+        "labels": [
+            "Baked Potato"
+        ],
+        "properties": {
+            "name": "baked_potato"
+        }
+    },
+    {
+        "id": 950,
+        "labels": [
+            "Poisonous Potato"
+        ],
+        "properties": {
+            "name": "poisonous_potato"
+        }
+    },
+    {
+        "id": 951,
+        "labels": [
+            "Empty Map"
+        ],
+        "properties": {
+            "name": "map"
+        }
+    },
+    {
+        "id": 952,
+        "labels": [
+            "Golden Carrot"
+        ],
+        "properties": {
+            "name": "golden_carrot"
+        }
+    },
+    {
+        "id": 953,
+        "labels": [
+            "Skeleton Skull"
+        ],
+        "properties": {
+            "name": "skeleton_skull"
+        }
+    },
+    {
+        "id": 954,
+        "labels": [
+            "Wither Skeleton Skull"
+        ],
+        "properties": {
+            "name": "wither_skeleton_skull"
+        }
+    },
+    {
+        "id": 955,
+        "labels": [
+            "Player Head"
+        ],
+        "properties": {
+            "name": "player_head"
+        }
+    },
+    {
+        "id": 956,
+        "labels": [
+            "Zombie Head"
+        ],
+        "properties": {
+            "name": "zombie_head"
+        }
+    },
+    {
+        "id": 957,
+        "labels": [
+            "Creeper Head"
+        ],
+        "properties": {
+            "name": "creeper_head"
+        }
+    },
+    {
+        "id": 958,
+        "labels": [
+            "Dragon Head"
+        ],
+        "properties": {
+            "name": "dragon_head"
+        }
+    },
+    {
+        "id": 959,
+        "labels": [
+            "Nether Star"
+        ],
+        "properties": {
+            "name": "nether_star"
+        }
+    },
+    {
+        "id": 960,
+        "labels": [
+            "Pumpkin Pie"
+        ],
+        "properties": {
+            "name": "pumpkin_pie"
+        }
+    },
+    {
+        "id": 961,
+        "labels": [
+            "Firework Rocket"
+        ],
+        "properties": {
+            "name": "firework_rocket"
+        }
+    },
+    {
+        "id": 962,
+        "labels": [
+            "Firework Star"
+        ],
+        "properties": {
+            "name": "firework_star"
+        }
+    },
+    {
+        "id": 963,
+        "labels": [
+            "Enchanted Book"
+        ],
+        "properties": {
+            "name": "enchanted_book"
+        }
+    },
+    {
+        "id": 964,
+        "labels": [
+            "Nether Brick"
+        ],
+        "properties": {
+            "name": "nether_brick"
+        }
+    },
+    {
+        "id": 965,
+        "labels": [
+            "Prismarine Shard"
+        ],
+        "properties": {
+            "name": "prismarine_shard"
+        }
+    },
+    {
+        "id": 966,
+        "labels": [
+            "Prismarine Crystals"
+        ],
+        "properties": {
+            "name": "prismarine_crystals"
+        }
+    },
+    {
+        "id": 967,
+        "labels": [
+            "Raw Rabbit"
+        ],
+        "properties": {
+            "name": "rabbit"
+        }
+    },
+    {
+        "id": 968,
+        "labels": [
+            "Cooked Rabbit"
+        ],
+        "properties": {
+            "name": "cooked_rabbit"
+        }
+    },
+    {
+        "id": 969,
+        "labels": [
+            "Rabbit Stew"
+        ],
+        "properties": {
+            "name": "rabbit_stew"
+        }
+    },
+    {
+        "id": 970,
+        "labels": [
+            "Rabbit's Foot"
+        ],
+        "properties": {
+            "name": "rabbit_foot"
+        }
+    },
+    {
+        "id": 971,
+        "labels": [
+            "Rabbit Hide"
+        ],
+        "properties": {
+            "name": "rabbit_hide"
+        }
+    },
+    {
+        "id": 972,
+        "labels": [
+            "Armor Stand"
+        ],
+        "properties": {
+            "name": "armor_stand"
+        }
+    },
+    {
+        "id": 973,
+        "labels": [
+            "Iron Horse Armor"
+        ],
+        "properties": {
+            "name": "iron_horse_armor"
+        }
+    },
+    {
+        "id": 974,
+        "labels": [
+            "Golden Horse Armor"
+        ],
+        "properties": {
+            "name": "golden_horse_armor"
+        }
+    },
+    {
+        "id": 975,
+        "labels": [
+            "Diamond Horse Armor"
+        ],
+        "properties": {
+            "name": "diamond_horse_armor"
+        }
+    },
+    {
+        "id": 976,
+        "labels": [
+            "Leather Horse Armor"
+        ],
+        "properties": {
+            "name": "leather_horse_armor"
+        }
+    },
+    {
+        "id": 977,
+        "labels": [
+            "Lead"
+        ],
+        "properties": {
+            "name": "lead"
+        }
+    },
+    {
+        "id": 978,
+        "labels": [
+            "Name Tag"
+        ],
+        "properties": {
+            "name": "name_tag"
+        }
+    },
+    {
+        "id": 979,
+        "labels": [
+            "Minecart with Command Block"
+        ],
+        "properties": {
+            "name": "command_block_minecart"
+        }
+    },
+    {
+        "id": 980,
+        "labels": [
+            "Raw Mutton"
+        ],
+        "properties": {
+            "name": "mutton"
+        }
+    },
+    {
+        "id": 981,
+        "labels": [
+            "Cooked Mutton"
+        ],
+        "properties": {
+            "name": "cooked_mutton"
+        }
+    },
+    {
+        "id": 982,
+        "labels": [
+            "White Banner"
+        ],
+        "properties": {
+            "name": "white_banner"
+        }
+    },
+    {
+        "id": 983,
+        "labels": [
+            "Orange Banner"
+        ],
+        "properties": {
+            "name": "orange_banner"
+        }
+    },
+    {
+        "id": 984,
+        "labels": [
+            "Magenta Banner"
+        ],
+        "properties": {
+            "name": "magenta_banner"
+        }
+    },
+    {
+        "id": 985,
+        "labels": [
+            "Light Blue Banner"
+        ],
+        "properties": {
+            "name": "light_blue_banner"
+        }
+    },
+    {
+        "id": 986,
+        "labels": [
+            "Yellow Banner"
+        ],
+        "properties": {
+            "name": "yellow_banner"
+        }
+    },
+    {
+        "id": 987,
+        "labels": [
+            "Lime Banner"
+        ],
+        "properties": {
+            "name": "lime_banner"
+        }
+    },
+    {
+        "id": 988,
+        "labels": [
+            "Pink Banner"
+        ],
+        "properties": {
+            "name": "pink_banner"
+        }
+    },
+    {
+        "id": 989,
+        "labels": [
+            "Gray Banner"
+        ],
+        "properties": {
+            "name": "gray_banner"
+        }
+    },
+    {
+        "id": 990,
+        "labels": [
+            "Light Gray Banner"
+        ],
+        "properties": {
+            "name": "light_gray_banner"
+        }
+    },
+    {
+        "id": 991,
+        "labels": [
+            "Cyan Banner"
+        ],
+        "properties": {
+            "name": "cyan_banner"
+        }
+    },
+    {
+        "id": 992,
+        "labels": [
+            "Purple Banner"
+        ],
+        "properties": {
+            "name": "purple_banner"
+        }
+    },
+    {
+        "id": 993,
+        "labels": [
+            "Blue Banner"
+        ],
+        "properties": {
+            "name": "blue_banner"
+        }
+    },
+    {
+        "id": 994,
+        "labels": [
+            "Brown Banner"
+        ],
+        "properties": {
+            "name": "brown_banner"
+        }
+    },
+    {
+        "id": 995,
+        "labels": [
+            "Green Banner"
+        ],
+        "properties": {
+            "name": "green_banner"
+        }
+    },
+    {
+        "id": 996,
+        "labels": [
+            "Red Banner"
+        ],
+        "properties": {
+            "name": "red_banner"
+        }
+    },
+    {
+        "id": 997,
+        "labels": [
+            "Black Banner"
+        ],
+        "properties": {
+            "name": "black_banner"
+        }
+    },
+    {
+        "id": 998,
+        "labels": [
+            "End Crystal"
+        ],
+        "properties": {
+            "name": "end_crystal"
+        }
+    },
+    {
+        "id": 999,
+        "labels": [
+            "Chorus Fruit"
+        ],
+        "properties": {
+            "name": "chorus_fruit"
+        }
+    },
+    {
+        "id": 1000,
+        "labels": [
+            "Popped Chorus Fruit"
+        ],
+        "properties": {
+            "name": "popped_chorus_fruit"
+        }
+    },
+    {
+        "id": 1001,
+        "labels": [
+            "Beetroot"
+        ],
+        "properties": {
+            "name": "beetroot"
+        }
+    },
+    {
+        "id": 1002,
+        "labels": [
+            "Beetroot Seeds"
+        ],
+        "properties": {
+            "name": "beetroot_seeds"
+        }
+    },
+    {
+        "id": 1003,
+        "labels": [
+            "Beetroot Soup"
+        ],
+        "properties": {
+            "name": "beetroot_soup"
+        }
+    },
+    {
+        "id": 1004,
+        "labels": [
+            "Dragon's Breath"
+        ],
+        "properties": {
+            "name": "dragon_breath"
+        }
+    },
+    {
+        "id": 1005,
+        "labels": [
+            "Splash Potion"
+        ],
+        "properties": {
+            "name": "splash_potion"
+        }
+    },
+    {
+        "id": 1006,
+        "labels": [
+            "Spectral Arrow"
+        ],
+        "properties": {
+            "name": "spectral_arrow"
+        }
+    },
+    {
+        "id": 1007,
+        "labels": [
+            "Tipped Arrow"
+        ],
+        "properties": {
+            "name": "tipped_arrow"
+        }
+    },
+    {
+        "id": 1008,
+        "labels": [
+            "Lingering Potion"
+        ],
+        "properties": {
+            "name": "lingering_potion"
+        }
+    },
+    {
+        "id": 1009,
+        "labels": [
+            "Shield"
+        ],
+        "properties": {
+            "name": "shield"
+        }
+    },
+    {
+        "id": 1010,
+        "labels": [
+            "Totem of Undying"
+        ],
+        "properties": {
+            "name": "totem_of_undying"
+        }
+    },
+    {
+        "id": 1011,
+        "labels": [
+            "Shulker Shell"
+        ],
+        "properties": {
+            "name": "shulker_shell"
+        }
+    },
+    {
+        "id": 1012,
+        "labels": [
+            "Iron Nugget"
+        ],
+        "properties": {
+            "name": "iron_nugget"
+        }
+    },
+    {
+        "id": 1013,
+        "labels": [
+            "Knowledge Book"
+        ],
+        "properties": {
+            "name": "knowledge_book"
+        }
+    },
+    {
+        "id": 1014,
+        "labels": [
+            "Debug Stick"
+        ],
+        "properties": {
+            "name": "debug_stick"
+        }
+    },
+    {
+        "id": 1015,
+        "labels": [
+            "13 Disc"
+        ],
+        "properties": {
+            "name": "music_disc_13"
+        }
+    },
+    {
+        "id": 1016,
+        "labels": [
+            "Cat Disc"
+        ],
+        "properties": {
+            "name": "music_disc_cat"
+        }
+    },
+    {
+        "id": 1017,
+        "labels": [
+            "Blocks Disc"
+        ],
+        "properties": {
+            "name": "music_disc_blocks"
+        }
+    },
+    {
+        "id": 1018,
+        "labels": [
+            "Chirp Disc"
+        ],
+        "properties": {
+            "name": "music_disc_chirp"
+        }
+    },
+    {
+        "id": 1019,
+        "labels": [
+            "Far Disc"
+        ],
+        "properties": {
+            "name": "music_disc_far"
+        }
+    },
+    {
+        "id": 1020,
+        "labels": [
+            "Mall Disc"
+        ],
+        "properties": {
+            "name": "music_disc_mall"
+        }
+    },
+    {
+        "id": 1021,
+        "labels": [
+            "Mellohi Disc"
+        ],
+        "properties": {
+            "name": "music_disc_mellohi"
+        }
+    },
+    {
+        "id": 1022,
+        "labels": [
+            "Stal Disc"
+        ],
+        "properties": {
+            "name": "music_disc_stal"
+        }
+    },
+    {
+        "id": 1023,
+        "labels": [
+            "Strad Disc"
+        ],
+        "properties": {
+            "name": "music_disc_strad"
+        }
+    },
+    {
+        "id": 1024,
+        "labels": [
+            "Ward Disc"
+        ],
+        "properties": {
+            "name": "music_disc_ward"
+        }
+    },
+    {
+        "id": 1025,
+        "labels": [
+            "11 Disc"
+        ],
+        "properties": {
+            "name": "music_disc_11"
+        }
+    },
+    {
+        "id": 1026,
+        "labels": [
+            "Wait Disc"
+        ],
+        "properties": {
+            "name": "music_disc_wait"
+        }
+    },
+    {
+        "id": 1027,
+        "labels": [
+            "Music Disc"
+        ],
+        "properties": {
+            "name": "music_disc_pigstep"
+        }
+    },
+    {
+        "id": 1028,
+        "labels": [
+            "Trident"
+        ],
+        "properties": {
+            "name": "trident"
+        }
+    },
+    {
+        "id": 1029,
+        "labels": [
+            "Phantom Membrane"
+        ],
+        "properties": {
+            "name": "phantom_membrane"
+        }
+    },
+    {
+        "id": 1030,
+        "labels": [
+            "Nautilus Shell"
+        ],
+        "properties": {
+            "name": "nautilus_shell"
+        }
+    },
+    {
+        "id": 1031,
+        "labels": [
+            "Heart of the Sea"
+        ],
+        "properties": {
+            "name": "heart_of_the_sea"
+        }
+    },
+    {
+        "id": 1032,
+        "labels": [
+            "Crossbow"
+        ],
+        "properties": {
+            "name": "crossbow"
+        }
+    },
+    {
+        "id": 1033,
+        "labels": [
+            "Suspicious Stew"
+        ],
+        "properties": {
+            "name": "suspicious_stew"
+        }
+    },
+    {
+        "id": 1034,
+        "labels": [
+            "Loom"
+        ],
+        "properties": {
+            "name": "loom"
+        }
+    },
+    {
+        "id": 1035,
+        "labels": [
+            "Banner Pattern"
+        ],
+        "properties": {
+            "name": "flower_banner_pattern"
+        }
+    },
+    {
+        "id": 1036,
+        "labels": [
+            "Banner Pattern"
+        ],
+        "properties": {
+            "name": "creeper_banner_pattern"
+        }
+    },
+    {
+        "id": 1037,
+        "labels": [
+            "Banner Pattern"
+        ],
+        "properties": {
+            "name": "skull_banner_pattern"
+        }
+    },
+    {
+        "id": 1038,
+        "labels": [
+            "Banner Pattern"
+        ],
+        "properties": {
+            "name": "mojang_banner_pattern"
+        }
+    },
+    {
+        "id": 1039,
+        "labels": [
+            "Banner Pattern"
+        ],
+        "properties": {
+            "name": "globe_banner_pattern"
+        }
+    },
+    {
+        "id": 1040,
+        "labels": [
+            "Banner Pattern"
+        ],
+        "properties": {
+            "name": "piglin_banner_pattern"
+        }
+    },
+    {
+        "id": 1041,
+        "labels": [
+            "Composter"
+        ],
+        "properties": {
+            "name": "composter"
+        }
+    },
+    {
+        "id": 1042,
+        "labels": [
+            "Barrel"
+        ],
+        "properties": {
+            "name": "barrel"
+        }
+    },
+    {
+        "id": 1043,
+        "labels": [
+            "Smoker"
+        ],
+        "properties": {
+            "name": "smoker"
+        }
+    },
+    {
+        "id": 1044,
+        "labels": [
+            "Blast Furnace"
+        ],
+        "properties": {
+            "name": "blast_furnace"
+        }
+    },
+    {
+        "id": 1045,
+        "labels": [
+            "Cartography Table"
+        ],
+        "properties": {
+            "name": "cartography_table"
+        }
+    },
+    {
+        "id": 1046,
+        "labels": [
+            "Fletching Table"
+        ],
+        "properties": {
+            "name": "fletching_table"
+        }
+    },
+    {
+        "id": 1047,
+        "labels": [
+            "Grindstone"
+        ],
+        "properties": {
+            "name": "grindstone"
+        }
+    },
+    {
+        "id": 1048,
+        "labels": [
+            "Smithing Table"
+        ],
+        "properties": {
+            "name": "smithing_table"
+        }
+    },
+    {
+        "id": 1049,
+        "labels": [
+            "Stonecutter"
+        ],
+        "properties": {
+            "name": "stonecutter"
+        }
+    },
+    {
+        "id": 1050,
+        "labels": [
+            "Bell"
+        ],
+        "properties": {
+            "name": "bell"
+        }
+    },
+    {
+        "id": 1051,
+        "labels": [
+            "Lantern"
+        ],
+        "properties": {
+            "name": "lantern"
+        }
+    },
+    {
+        "id": 1052,
+        "labels": [
+            "Soul Lantern"
+        ],
+        "properties": {
+            "name": "soul_lantern"
+        }
+    },
+    {
+        "id": 1053,
+        "labels": [
+            "Sweet Berries"
+        ],
+        "properties": {
+            "name": "sweet_berries"
+        }
+    },
+    {
+        "id": 1054,
+        "labels": [
+            "Glow Berries"
+        ],
+        "properties": {
+            "name": "glow_berries"
+        }
+    },
+    {
+        "id": 1055,
+        "labels": [
+            "Campfire"
+        ],
+        "properties": {
+            "name": "campfire"
+        }
+    },
+    {
+        "id": 1056,
+        "labels": [
+            "Soul Campfire"
+        ],
+        "properties": {
+            "name": "soul_campfire"
+        }
+    },
+    {
+        "id": 1057,
+        "labels": [
+            "Shroomlight"
+        ],
+        "properties": {
+            "name": "shroomlight"
+        }
+    },
+    {
+        "id": 1058,
+        "labels": [
+            "Honeycomb"
+        ],
+        "properties": {
+            "name": "honeycomb"
+        }
+    },
+    {
+        "id": 1059,
+        "labels": [
+            "Bee Nest"
+        ],
+        "properties": {
+            "name": "bee_nest"
+        }
+    },
+    {
+        "id": 1060,
+        "labels": [
+            "Beehive"
+        ],
+        "properties": {
+            "name": "beehive"
+        }
+    },
+    {
+        "id": 1061,
+        "labels": [
+            "Honey Bottle"
+        ],
+        "properties": {
+            "name": "honey_bottle"
+        }
+    },
+    {
+        "id": 1062,
+        "labels": [
+            "Honeycomb Block"
+        ],
+        "properties": {
+            "name": "honeycomb_block"
+        }
+    },
+    {
+        "id": 1063,
+        "labels": [
+            "Lodestone"
+        ],
+        "properties": {
+            "name": "lodestone"
+        }
+    },
+    {
+        "id": 1064,
+        "labels": [
+            "Crying Obsidian"
+        ],
+        "properties": {
+            "name": "crying_obsidian"
+        }
+    },
+    {
+        "id": 1065,
+        "labels": [
+            "Blackstone"
+        ],
+        "properties": {
+            "name": "blackstone"
+        }
+    },
+    {
+        "id": 1066,
+        "labels": [
+            "Blackstone Slab"
+        ],
+        "properties": {
+            "name": "blackstone_slab"
+        }
+    },
+    {
+        "id": 1067,
+        "labels": [
+            "Blackstone Stairs"
+        ],
+        "properties": {
+            "name": "blackstone_stairs"
+        }
+    },
+    {
+        "id": 1068,
+        "labels": [
+            "Gilded Blackstone"
+        ],
+        "properties": {
+            "name": "gilded_blackstone"
+        }
+    },
+    {
+        "id": 1069,
+        "labels": [
+            "Polished Blackstone"
+        ],
+        "properties": {
+            "name": "polished_blackstone"
+        }
+    },
+    {
+        "id": 1070,
+        "labels": [
+            "Polished Blackstone Slab"
+        ],
+        "properties": {
+            "name": "polished_blackstone_slab"
+        }
+    },
+    {
+        "id": 1071,
+        "labels": [
+            "Polished Blackstone Stairs"
+        ],
+        "properties": {
+            "name": "polished_blackstone_stairs"
+        }
+    },
+    {
+        "id": 1072,
+        "labels": [
+            "Chiseled Polished Blackstone"
+        ],
+        "properties": {
+            "name": "chiseled_polished_blackstone"
+        }
+    },
+    {
+        "id": 1073,
+        "labels": [
+            "Polished Blackstone Bricks"
+        ],
+        "properties": {
+            "name": "polished_blackstone_bricks"
+        }
+    },
+    {
+        "id": 1074,
+        "labels": [
+            "Polished Blackstone Brick Slab"
+        ],
+        "properties": {
+            "name": "polished_blackstone_brick_slab"
+        }
+    },
+    {
+        "id": 1075,
+        "labels": [
+            "Polished Blackstone Brick Stairs"
+        ],
+        "properties": {
+            "name": "polished_blackstone_brick_stairs"
+        }
+    },
+    {
+        "id": 1076,
+        "labels": [
+            "Cracked Polished Blackstone Bricks"
+        ],
+        "properties": {
+            "name": "cracked_polished_blackstone_bricks"
+        }
+    },
+    {
+        "id": 1077,
+        "labels": [
+            "Respawn Anchor"
+        ],
+        "properties": {
+            "name": "respawn_anchor"
+        }
+    },
+    {
+        "id": 1078,
+        "labels": [
+            "Candle"
+        ],
+        "properties": {
+            "name": "candle"
+        }
+    },
+    {
+        "id": 1079,
+        "labels": [
+            "White Candle"
+        ],
+        "properties": {
+            "name": "white_candle"
+        }
+    },
+    {
+        "id": 1080,
+        "labels": [
+            "Orange Candle"
+        ],
+        "properties": {
+            "name": "orange_candle"
+        }
+    },
+    {
+        "id": 1081,
+        "labels": [
+            "Magenta Candle"
+        ],
+        "properties": {
+            "name": "magenta_candle"
+        }
+    },
+    {
+        "id": 1082,
+        "labels": [
+            "Light Blue Candle"
+        ],
+        "properties": {
+            "name": "light_blue_candle"
+        }
+    },
+    {
+        "id": 1083,
+        "labels": [
+            "Yellow Candle"
+        ],
+        "properties": {
+            "name": "yellow_candle"
+        }
+    },
+    {
+        "id": 1084,
+        "labels": [
+            "Lime Candle"
+        ],
+        "properties": {
+            "name": "lime_candle"
+        }
+    },
+    {
+        "id": 1085,
+        "labels": [
+            "Pink Candle"
+        ],
+        "properties": {
+            "name": "pink_candle"
+        }
+    },
+    {
+        "id": 1086,
+        "labels": [
+            "Gray Candle"
+        ],
+        "properties": {
+            "name": "gray_candle"
+        }
+    },
+    {
+        "id": 1087,
+        "labels": [
+            "Light Gray Candle"
+        ],
+        "properties": {
+            "name": "light_gray_candle"
+        }
+    },
+    {
+        "id": 1088,
+        "labels": [
+            "Cyan Candle"
+        ],
+        "properties": {
+            "name": "cyan_candle"
+        }
+    },
+    {
+        "id": 1089,
+        "labels": [
+            "Purple Candle"
+        ],
+        "properties": {
+            "name": "purple_candle"
+        }
+    },
+    {
+        "id": 1090,
+        "labels": [
+            "Blue Candle"
+        ],
+        "properties": {
+            "name": "blue_candle"
+        }
+    },
+    {
+        "id": 1091,
+        "labels": [
+            "Brown Candle"
+        ],
+        "properties": {
+            "name": "brown_candle"
+        }
+    },
+    {
+        "id": 1092,
+        "labels": [
+            "Green Candle"
+        ],
+        "properties": {
+            "name": "green_candle"
+        }
+    },
+    {
+        "id": 1093,
+        "labels": [
+            "Red Candle"
+        ],
+        "properties": {
+            "name": "red_candle"
+        }
+    },
+    {
+        "id": 1094,
+        "labels": [
+            "Black Candle"
+        ],
+        "properties": {
+            "name": "black_candle"
+        }
+    },
+    {
+        "id": 1095,
+        "labels": [
+            "Small Amethyst Bud"
+        ],
+        "properties": {
+            "name": "small_amethyst_bud"
+        }
+    },
+    {
+        "id": 1096,
+        "labels": [
+            "Medium Amethyst Bud"
+        ],
+        "properties": {
+            "name": "medium_amethyst_bud"
+        }
+    },
+    {
+        "id": 1097,
+        "labels": [
+            "Large Amethyst Bud"
+        ],
+        "properties": {
+            "name": "large_amethyst_bud"
+        }
+    },
+    {
+        "id": 1098,
+        "labels": [
+            "Amethyst Cluster"
+        ],
+        "properties": {
+            "name": "amethyst_cluster"
+        }
+    },
+    {
+        "id": 1099,
+        "labels": [
+            "Pointed Dripstone"
+        ],
+        "properties": {
+            "name": "pointed_dripstone"
+        }
+    }
+]
